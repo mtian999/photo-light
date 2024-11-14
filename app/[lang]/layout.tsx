@@ -1,6 +1,5 @@
 import BaiDuAnalytics from "@/app/BaiDuAnalytics";
 import GoogleAnalytics from "@/app/GoogleAnalytics";
-import { ThemeProvider } from "@/components/ThemeProvider";
 import { siteConfig } from "@/config/site";
 import { defaultLocale } from "@/lib/i18n";
 import { cn } from "@/lib/utils";
@@ -44,14 +43,8 @@ export default function RootLayout({
       <head />
       <body className={cn("min-h-screen bg-background font-sans antialiased")}>
         <NextIntlClientProvider locale={langName}>
-          <ThemeProvider
-            attribute="class"
-            defaultTheme={siteConfig.nextThemeColor}
-            enableSystem
-          >
-            {children}
-            <Analytics />
-          </ThemeProvider>
+          {children}
+          <Analytics />
         </NextIntlClientProvider>
         {process.env.NODE_ENV === "development" ? (
           <></>
