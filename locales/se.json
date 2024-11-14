@@ -1,0 +1,21 @@
+{
+  "Metadata": {
+    "home": {
+      "title": "Kattmästarens Fyllbelysning | Onlinefyllbelysning",
+      "description": "Kattmästarens Fyllbelysning används främst för att tillhandahålla extra ljus för att förstärka eller ändra ljusförhållandena i en scen. Huvudfunktionerna inkluderar: förstärkning av naturligt ljus, förbättrad hudton, skapande av atmosfär, betoning av detaljer, minskning av skuggor, simulering av ljuskällor, färgkorrigering, professionell fotografering.",
+      "keywords": [
+        "fyllbelysning",
+        "färgkorrigering",
+        "professionell fotografering"
+      ]
+    }
+  },
+  "Header": {
+    "title": "Kattmästarens Fyllbelysning",
+    "tips": "Ljushetsjusteringen kräver att du justerar skärmljushetet på din egen enhet"
+  },
+  "NotFound": {
+    "title": "404 Hittades inte",
+    "goHome": "Gå tillbaka till hemsidan"
+  }
+}

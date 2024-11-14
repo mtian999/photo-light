@@ -1,0 +1,17 @@
+{
+  "Metadata": {
+    "home": {
+      "title": "Đèn bổ sáng Thầy Mèo | Đèn bổ sáng trực tuyến",
+      "description": "Đèn bổ sáng Thầy Mèo được sử dụng chủ yếu để cung cấp ánh sáng bổ sung để tăng cường hoặc thay đổi điều kiện ánh sáng trong một cảnh. Các chức năng chính bao gồm: tăng cường ánh sáng tự nhiên, cải thiện sắc thái da, tạo ra không khí, làm nổi bật chi tiết, giảm bóng, mô phỏng nguồn sáng, điều chỉnh màu sắc, nhiếp ảnh chuyên nghiệp.",
+      "keywords": ["bổ sáng", "điều chỉnh màu sắc", "nhiếp ảnh chuyên nghiệp"]
+    }
+  },
+  "Header": {
+    "title": "Đèn bổ sáng Thầy Mèo",
+    "tips": "Điều chỉnh độ sáng yêu cầu bạn điều chỉnh độ sáng màn hình của thiết bị của mình"
+  },
+  "NotFound": {
+    "title": "404 Không tìm thấy",
+    "goHome": "Quay về trang chủ"
+  }
+}
