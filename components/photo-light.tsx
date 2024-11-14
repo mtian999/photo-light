@@ -3,6 +3,7 @@
 import { Button } from "@/components/ui/button";
 import { ChevronLeft, ChevronRight, Settings, X } from "lucide-react";
 import { useTheme } from "next-themes";
+import NoSleep from "nosleep.js";
 import { useEffect, useRef, useState } from "react";
 
 export default function Component() {
@@ -38,12 +39,22 @@ export default function Component() {
     setShowColorPicker(!showColorPicker);
   };
   useEffect(() => {
+    const noSleep = new NoSleep();
     const container = scrollContainerRef.current;
     if (container) {
       container.addEventListener("scroll", checkScroll);
       checkScroll(); // Initial check
     }
-    return () => container?.removeEventListener("scroll", checkScroll);
+    function enableNoSleep() {
+      document.removeEventListener("click", enableNoSleep, false);
+      noSleep.enable();
+    }
+    // 阻止浏览器息屏
+    document.addEventListener("click", enableNoSleep, false);
+    return () => {
+      container?.removeEventListener("scroll", checkScroll);
+      document.removeEventListener("click", enableNoSleep, false);
+    };
   }, []);
   const asian = [
     {
