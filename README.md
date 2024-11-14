@@ -14,7 +14,7 @@ Blog:
 **全栈裁缝师**
 
 [Zhou Tian Tong Jie](https://fate.mastermao.com)  
-<img src="./public/zhouyi_20241108115435" alt="周易占卜实例" >
+<img src="./public/zhouyi_20241108115435.jpg" alt="周易占卜实例" >
 [猫大师补光灯](https://fate.mastermao.com)  
 [My Blog](https://fate.mastermao.com/zh/blog)  
 [Twitter/X](https://twitter.com/maomaoyu_coffee/)
