@@ -7,6 +7,7 @@ import NoSleep from "nosleep.js";
 import { useEffect, useRef, useState } from "react";
 
 export default function Component() {
+  const { theme, setTheme } = useTheme();
   const [backgroundColor, setBackgroundColor] = useState("#FFF5E1");
   const [colormetaInfo, setColormetaInfo] = useState(
     "这是一种柔和的温暖色调，可以为皮肤带来自然的光泽"
@@ -14,8 +15,8 @@ export default function Component() {
   const scrollContainerRef = useRef<HTMLDivElement>(null);
   const [showLeftArrow, setShowLeftArrow] = useState(false);
   const [showRightArrow, setShowRightArrow] = useState(true);
-  const [showColorPicker, setShowColorPicker] = useState(true);
-  const { theme, setTheme } = useTheme();
+  const [showColorPicker, setShowColorPicker] = useState(false);
+
   const scroll = (direction: "left" | "right") => {
     const container = scrollContainerRef.current;
     if (container) {
@@ -39,6 +40,7 @@ export default function Component() {
     setShowColorPicker(!showColorPicker);
   };
   useEffect(() => {
+    setShowColorPicker(theme === "light");
     const noSleep = new NoSleep();
     const container = scrollContainerRef.current;
     if (container) {
