@@ -36,8 +36,9 @@ const Header = ({
               {locale.title}
             </span>
           </Link>
+          <p className="text-gray-500">tips: {locale.tips}</p>
         </div>
-
+        <div></div>
         <div className="hidden md:flex items-center gap-x-6">
           <HeaderLinks />
           <LangSwitcher />

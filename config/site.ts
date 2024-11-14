@@ -4,7 +4,7 @@ const baseSiteConfig = {
   name: "猫大师补光灯 | 在线补光灯",
   description:
     "The Master Cat fill light is primarily used to provide additional light to enhance or alter the lighting conditions in a scene. Its main functions include: enhancing natural light, improving skin tones, creating atmosphere, highlighting details, reducing shadows, simulating light sources, color correction, and professional photography.",
-  url: "https://fate.maomaoyu.coffee",
+  url: "https://light.mastermao.com",
   metadataBase: "/",
   keywords: ["在线补光灯"],
   authors: [
