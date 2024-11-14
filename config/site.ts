@@ -15,6 +15,7 @@ const baseSiteConfig = {
     },
   ],
   creator: "maomaoyu",
+  ogImage: "",
   openSourceURL: "",
   themeColors: [
     { media: "(prefers-color-scheme: light)", color: "white" },

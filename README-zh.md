@@ -4,8 +4,6 @@
 
 这是一个通用的落地页模板，适合各种项目和营销活动。
 
-演示地址：https://landingpage.weijunext.com
-
 Blog:
 [周天通解 Blog](https://fate.mastermao.com/zh/blog/zhouyi-example)
 
@@ -15,7 +13,8 @@ Blog:
 
 **全栈裁缝师**
 
-[My Site](https://fate.mastermao.com)  
+[周天通解](https://fate.mastermao.com)  
 <img src="./public/zhouyi_20241108115435" alt="周易占卜实例" >
+[猫大师补光灯](https://fate.mastermao.com)  
 [My Blog](https://fate.mastermao.com/zh/blog)  
 [Twitter/X](https://twitter.com/maomaoyu_coffee/)
