@@ -1,4 +1,3 @@
-import { HreflangLinks } from "@/components/head/HreflangLinks";
 import PhotoLight from "@/components/photo-light";
 import { defaultLocale, getDictionary } from "@/lib/i18n";
 import { Metadata } from "next";
@@ -24,7 +23,6 @@ export default async function LangHome({
 
   return (
     <>
-      <HreflangLinks langName={langName} />
       <PhotoLight></PhotoLight>
     </>
   );

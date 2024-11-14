@@ -6,6 +6,9 @@ import { useEffect, useRef, useState } from "react";
 
 export default function Component() {
   const [backgroundColor, setBackgroundColor] = useState("#FFF5E1");
+  const [colormetaInfo, setColormetaInfo] = useState(
+    "这是一种柔和的温暖色调，可以为皮肤带来自然的光泽"
+  );
   const scrollContainerRef = useRef<HTMLDivElement>(null);
   const [showLeftArrow, setShowLeftArrow] = useState(false);
   const [showRightArrow, setShowRightArrow] = useState(true);
@@ -100,17 +103,17 @@ export default function Component() {
     {
       name: "淡黄",
       hex: "#FAFAD2",
-      meta: "这种色调可以模拟黄昏或清晨的自然光，为照片增添温暖感",
+      meta: "淡色调可以模拟黄昏或清晨的自然光，为照片增添温暖感",
     },
     {
       name: "天蓝",
       hex: "#E6F3FF",
-      meta: "这种冷色调可以平衡其他暖色，适合创造清新、冷静的氛围",
+      meta: "天蓝这种冷色调可以平衡其他暖色，适合创造清新、冷静的氛围",
     },
     {
       name: "薄荷",
       hex: "#F0FFF0",
-      meta: "这种柔和的绿色可以带来自然、清新的感觉",
+      meta: "薄荷这种柔和的绿色可以带来自然、清新的感觉",
     },
   ].concat(asian, western);
   return (
@@ -130,47 +133,53 @@ export default function Component() {
           <Settings className="h-4 w-4" />
         )}
       </Button>
+
       {showColorPicker && (
-        <div className="fixed z-50 bottom-10 left-4 right-4 flex flex-wrap justify-center gap-2">
-          {showLeftArrow && (
-            <button
-              type="button"
-              aria-label="Left Arrow"
-              className="absolute left-0 top-1/2 z-10 flex h-[38px] w-[38px] -translate-y-1/2 items-center justify-center border border-maomaoyu-orange bg-gray-200 text-maomaoyu-orange"
-              onClick={() => scroll("left")}
-            >
-              <ChevronLeft className="h-4 w-4" />
-            </button>
-          )}
-          <div
-            ref={scrollContainerRef}
-            className="no-scrollbar flex max-w-full  items-center gap-3 overflow-x-auto"
-          >
-            {colors.map((color) => (
-              <Button
-                key={color.hex}
-                onClick={() => setBackgroundColor(color.hex)}
-                className="px-4 py-2 rounded"
-                style={{ backgroundColor: color.hex, color: "#000" }}
+        <>
+          <p className="text-gray-600">{colormetaInfo}</p>
+          <div className="fixed flex flex-col items-center z-50 bottom-10 left-4 right-4 gap-2">
+            {showLeftArrow && (
+              <button
+                type="button"
+                aria-label="Left Arrow"
+                className="absolute left-0 top-1/2 z-10 flex h-[38px] w-[38px] -translate-y-1/2 items-center justify-center border border-maomaoyu-orange bg-gray-200 text-maomaoyu-orange"
+                onClick={() => scroll("left")}
               >
-                {color.name}
-              </Button>
-            ))}
-          </div>
-          {showRightArrow && (
-            <button
-              type="button"
-              aria-label="Right Arrow"
-              className="absolute right-0 top-1/2 z-10 flex h-[38px] w-[38px] -translate-y-1/2 items-center justify-center border border-maomaoyu-orange bg-gray-200 text-maomaoyu-orange"
-              onClick={() => scroll("right")}
+                <ChevronLeft className="h-4 w-4" />
+              </button>
+            )}
+            <div
+              ref={scrollContainerRef}
+              className="no-scrollbar flex max-w-full  items-center gap-3 overflow-x-auto"
             >
-              <ChevronRight className="h-4 w-4" />
-            </button>
-          )}
-        </div>
+              {colors.map((color) => (
+                <Button
+                  key={color.hex}
+                  onClick={() => {
+                    setBackgroundColor(color.hex);
+                    setColormetaInfo(color.meta);
+                  }}
+                  className="px-4 py-2 rounded"
+                  style={{ backgroundColor: color.hex, color: "#000" }}
+                >
+                  {color.name}
+                </Button>
+              ))}
+            </div>
+            {showRightArrow && (
+              <button
+                type="button"
+                aria-label="Right Arrow"
+                className="absolute right-0 top-1/2 z-10 flex h-[38px] w-[38px] -translate-y-1/2 items-center justify-center border border-maomaoyu-orange bg-gray-200 text-maomaoyu-orange"
+                onClick={() => scroll("right")}
+              >
+                <ChevronRight className="h-4 w-4" />
+              </button>
+            )}
+          </div>
+        </>
       )}
       <p className="text-xl font-semibold mt-8"></p>
     </div>
   );
 }
-
