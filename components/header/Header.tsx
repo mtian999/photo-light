@@ -5,7 +5,6 @@ import { MenuIcon } from "lucide-react";
 import Link from "next/link";
 import { useState } from "react";
 import { CgClose } from "react-icons/cg";
-import { ThemedButton } from "../ThemedButton";
 
 interface Link {
   label: string;
@@ -86,7 +85,6 @@ const Header = ({
                   <div className="flex items-center gap-x-5 justify-between">
                     <HeaderLinks />
                     <div className="flex items-center justify-end gap-x-5">
-                      <ThemedButton />
                       <LangSwitcher />
                     </div>
                   </div>
