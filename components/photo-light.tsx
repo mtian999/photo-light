@@ -2,6 +2,7 @@
 
 import { Button } from "@/components/ui/button";
 import { ChevronLeft, ChevronRight, Settings, X } from "lucide-react";
+import { useTheme } from "next-themes";
 import { useEffect, useRef, useState } from "react";
 
 export default function Component() {
@@ -13,6 +14,7 @@ export default function Component() {
   const [showLeftArrow, setShowLeftArrow] = useState(false);
   const [showRightArrow, setShowRightArrow] = useState(true);
   const [showColorPicker, setShowColorPicker] = useState(true);
+  const { theme, setTheme } = useTheme();
   const scroll = (direction: "left" | "right") => {
     const container = scrollContainerRef.current;
     if (container) {
@@ -31,7 +33,10 @@ export default function Component() {
     }
   };
 
-  const toggleColorPicker = () => setShowColorPicker(!showColorPicker);
+  const toggleColorPicker = () => {
+    setTheme(!showColorPicker ? "light" : "dark");
+    setShowColorPicker(!showColorPicker);
+  };
   useEffect(() => {
     const container = scrollContainerRef.current;
     if (container) {

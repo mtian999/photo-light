@@ -21,7 +21,7 @@ const baseSiteConfig = {
     { media: "(prefers-color-scheme: light)", color: "white" },
     { media: "(prefers-color-scheme: dark)", color: "black" },
   ],
-  nextThemeColor: "light", // next-theme option: system | dark | light
+  nextThemeColor: "light", // next-theme option: system | dark | light | hidden
   icons: {
     icon: "/favicon.ico",
     shortcut: "/favicon-16x16.png",
