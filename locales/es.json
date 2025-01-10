@@ -10,6 +10,194 @@
       ]
     }
   },
+  "HomePage": {
+    "Color": {
+      "accessible_beige": {
+        "name": "Beige Accesible",
+        "meta": "Un beige suave que crea un ambiente cálido y confortable para el día a día, ideal para fotografiar la vida en el hogar y retratos acogedores."
+      },
+      "navy_blue": {
+        "name": "Azul Marino",
+        "meta": "Azul marino profundo, que proporciona un ambiente tranquilo y profundo, ideal para fotografiar escenas nocturnas y retratos profesionales."
+      },
+      "charcoal_gray": {
+        "name": "Gris Carbón",
+        "meta": "Gris carbón, que crea un ambiente moderno y frío, ideal para fotografiar estilos industriales y minimalistas."
+      },
+      "olive_green": {
+        "name": "Verde Oliva",
+        "meta": "Verde oliva, que crea un ambiente natural y tranquilo, ideal para fotografiar exteriores, plantas y temas retro."
+      },
+      "taupe": {
+        "name": "Gris Pardo",
+        "meta": "Gris pardo, que crea un ambiente elegante y vintage, ideal para fotografiar retratos de moda y bodegones."
+      },
+      "beige": {
+        "name": "Beige",
+        "meta": "Beige, que crea un ambiente cálido y sencillo, ideal para fotografiar escenas cotidianas, comida y escenas de la vida."
+      },
+      "ivory": {
+        "name": "Marfil",
+        "meta": "Blanco marfil, que crea un ambiente suave y elegante, ideal para fotografiar bodas y retratos hermosos."
+      },
+      "terracotta": {
+        "name": "Terracota",
+        "meta": "Terracota, que crea un ambiente cálido y rústico, ideal para fotografiar temas retro y rurales."
+      },
+      "mustard_yellow": {
+        "name": "Amarillo Mostaza",
+        "meta": "Amarillo mostaza, que crea un ambiente vintage y vibrante, ideal para fotografiar temas urbanos y divertidos."
+      },
+      "sage_green": {
+        "name": "Verde Salvia",
+        "meta": "Verde salvia, que crea un ambiente tenue y refrescante, ideal para fotografiar paisajes rurales y retratos de estilo refrescante."
+      },
+      "blush_pink": {
+        "name": "Rosa Rubor",
+        "meta": "Rosa rubor, que crea un ambiente suave y romántico, ideal para fotografiar temas de chicas y dulces."
+      },
+      "dusty_rose": {
+        "name": "Rosa Polvo",
+        "meta": "Rosa polvo, que crea un ambiente vintage y suave, ideal para fotografiar retratos y temas nostálgicos."
+      },
+      "emerald_green": {
+        "name": "Verde Esmeralda",
+        "meta": "Verde esmeralda, que crea un ambiente noble y lujoso, ideal para fotografiar joyas y sesiones de moda."
+      },
+      "teal": {
+        "name": "Verde Azulado",
+        "meta": "Verde azulado/verde pato, que crea un ambiente moderno y único, ideal para fotografiar retratos creativos y obras de arte."
+      },
+      "coral": {
+        "name": "Coral",
+        "meta": "Coral, que crea un ambiente cálido y vibrante, ideal para fotografiar temas de vacaciones y sol."
+      },
+      "khaki": {
+        "name": "Caqui",
+        "meta": "Caqui, un tono tierra suave, que crea un ambiente natural y cálido, ideal para fotografiar exteriores y temas de viaje."
+      },
+      "sand": {
+        "name": "Arena",
+        "meta": "Arena, un tono tierra suave, que crea un ambiente tranquilo y pacífico, ideal para fotografiar playas y desiertos."
+      },
+      "clay": {
+        "name": "Arcilla",
+        "meta": "Arcilla, un tono tierra suave, que crea un ambiente rústico y original, ideal para fotografiar cerámica y paisajes naturales."
+      },
+      "pistachio_green": {
+        "name": "Verde Pistacho",
+        "meta": "Verde pistacho, que crea un ambiente fresco y suave, ideal para fotografiar decoración del hogar, comida y estilo minimalista."
+      },
+      "periwinkle": {
+        "name": "Bígaro",
+        "meta": "Bígaro, que crea un ambiente único y suave, ideal para fotografiar temas oníricos y misteriosos."
+      },
+      "ochre": {
+        "name": "Ocre",
+        "meta": "Ocre, un amarillo terroso, que crea un ambiente cálido y vintage, ideal para fotografiar estilos nostálgicos y obras de arte."
+      },
+      "gold": {
+        "name": "Dorado",
+        "meta": "Dorado, que crea un ambiente lujoso y brillante, ideal para fotografiar cenas y celebraciones."
+      },
+      "silver": {
+        "name": "Plateado",
+        "meta": "Plateado, que crea un ambiente moderno y tecnológico, ideal para fotografiar temas futuristas y de moda."
+      },
+      "bronze": {
+        "name": "Bronce",
+        "meta": "Bronce, que crea un ambiente vintage y misterioso, ideal para fotografiar temas históricos y texturas metálicas."
+      },
+      "neon_pink": {
+        "name": "Rosa Neón",
+        "meta": "Rosa neón, que crea un ambiente vanguardista y moderno, ideal para fotografiar discotecas y temas urbanos."
+      },
+      "neon_green": {
+        "name": "Verde Neón",
+        "meta": "Verde neón, que crea un ambiente vivo y dinámico, ideal para fotografiar deportes y festivales de música."
+      },
+      "pastel_pink": {
+        "name": "Rosa Pastel",
+        "meta": "Rosa pastel, que crea un ambiente dulce y de ensueño, ideal para fotografiar temas de niños y chicas."
+      },
+      "pastel_blue": {
+        "name": "Azul Pastel",
+        "meta": "Azul pastel, que crea un ambiente fresco y curativo, ideal para fotografiar cielos y escenas de playa."
+      },
+      "earthy_brown": {
+        "name": "Marrón Tierra",
+        "meta": "Marrón tierra, que crea un ambiente rústico y natural, ideal para fotografiar bosques y temas al aire libre."
+      },
+      "earthy_green": {
+        "name": "Verde Tierra",
+        "meta": "Verde tierra, que crea un ambiente natural y lleno de vida, ideal para fotografiar plantas y temas ecológicos."
+      },
+      "ruby_red": {
+        "name": "Rojo Rubí",
+        "meta": "Rojo rubí, que crea un ambiente apasionado y magnífico, ideal para fotografiar fiestas y temas de celebración."
+      },
+      "sapphire_blue": {
+        "name": "Azul Zafiro",
+        "meta": "Azul zafiro, que crea un ambiente noble y misterioso, ideal para fotografiar temas de cielo estrellado y joyas."
+      },
+      "pearl_white": {
+        "name": "Blanco Perla",
+        "meta": "Un blanco suave que crea un ambiente puro y brillante, ideal para fotografiar una variedad de estilos frescos y minimalistas."
+      },
+      "peach_pink": {
+        "name": "Rosa Melocotón",
+        "meta": "Un tono rosa cálido que crea un ambiente suave y dulce, ideal para fotografiar retratos y comida, especialmente para los tonos de piel asiáticos."
+      },
+      "almond_yellow": {
+        "name": "Amarillo Almendra",
+        "meta": "Un tono amarillo cálido que crea un ambiente vibrante y soleado, ideal para fotografiar exteriores y temas de ocio, y que puede realzar el tono dorado de la piel asiática."
+      },
+      "corn_color": {
+        "name": "Amarillo Maíz",
+        "meta": "Un amarillo suave que crea un ambiente cálido y cómodo, ideal para fotografiar temas cotidianos y domésticos, y que proporciona una sensación de luz suave."
+      },
+      "mint_green": {
+        "name": "Verde Menta",
+        "meta": "Un tono verde fresco que crea un ambiente fresco y natural, ideal para fotografiar plantas, comida y retratos de estilo fresco."
+      },
+      "ivory_white": {
+        "name": "Blanco Marfil",
+        "meta": "Un blanco suave que crea un ambiente elegante y suave, ideal para fotografiar vestidos de novia y retratos de moda, y que puede iluminar la piel."
+      },
+      "rose_gold": {
+        "name": "Oro Rosa",
+        "meta": "Un tono rosa cálido que crea un ambiente romántico y refinado, ideal para fotografiar joyas y moda, y que puede añadir un brillo saludable a los tonos de piel europeos."
+      },
+      "champagne": {
+        "name": "Champán",
+        "meta": "Un tono dorado cálido que crea un ambiente elegante y noble, ideal para fotografiar bodas y celebraciones, y que puede realzar la calidez de los tonos de piel europeos."
+      },
+      "lavender": {
+        "name": "Lavanda",
+        "meta": "Un tono púrpura suave que crea un ambiente romántico y de ensueño, ideal para fotografiar retratos y estilos artísticos, y que puede añadir una suavidad única a los tonos de piel europeos."
+      },
+      "warm_white": {
+        "name": "Blanco Cálido",
+        "meta": "Un tono cálido y suave que crea un ambiente natural y acogedor, ideal para fotografiar diversas escenas cotidianas, y que puede aportar un brillo natural a las fotos."
+      },
+      "soft_pink": {
+        "name": "Rosa Suave",
+        "meta": "Un rosa suave que crea un ambiente acogedor y romántico, ideal para fotografiar retratos y fotos de pareja, y que puede añadir una atmósfera acogedora y romántica a las fotos."
+      },
+      "light_yellow": {
+        "name": "Amarillo Claro",
+        "meta": "Un tono amarillo claro que crea un ambiente cálido y suave, ideal para fotografiar escenas de atardecer y amanecer, y que puede añadir una sensación de luz cálida a las fotos."
+      },
+      "sky_blue": {
+        "name": "Azul Cielo",
+        "meta": "Un tono azul cielo frío que crea un ambiente fresco y tranquilo, ideal para fotografiar cielos y océanos, y que puede equilibrar otros colores cálidos."
+      },
+      "mint": {
+        "name": "Menta",
+        "meta": "Un verde suave que crea un ambiente natural y fresco, ideal para fotografiar plantas y temas refrescantes, y que puede aportar una sensación natural y refrescante."
+      }
+    }
+  },
   "Header": {
     "title": "Linterna de relleno del Maestro Gato",
     "tips": "El ajuste de brillo requiere que ajustes el brillo de la pantalla de tu propio dispositivo"

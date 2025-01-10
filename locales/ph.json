@@ -10,6 +10,194 @@
       ]
     }
   },
+  "HomePage": {
+    "Color": {
+      "accessible_beige": {
+        "name": "Madaling Gamiting Beige",
+        "meta": "Isang malambot na beige na lumilikha ng mainit at komportableng pang-araw-araw na kapaligiran, perpekto para sa pagkuha ng mga larawan ng buhay sa bahay at mga intimate portrait."
+      },
+      "navy_blue": {
+        "name": "Navy Blue",
+        "meta": "Isang malalim na navy blue, na nagbibigay ng kalmado at malalim na kapaligiran, perpekto para sa pagkuha ng mga tanawin sa gabi at mga propesyonal na portrait."
+      },
+      "charcoal_gray": {
+        "name": "Uling Gray",
+        "meta": "Uling gray, na lumilikha ng isang moderno at malamig na kapaligiran, perpekto para sa pagkuha ng mga istilong pang-industriya at minimalistang istilo."
+      },
+      "olive_green": {
+        "name": "Olive Green",
+        "meta": "Olive green, na lumilikha ng isang natural at tahimik na kapaligiran, perpekto para sa pagkuha ng mga outdoor, halaman at retro tema."
+      },
+      "taupe": {
+        "name": "Taupe",
+        "meta": "Taupe, na lumilikha ng isang elegante at vintage na kapaligiran, perpekto para sa pagkuha ng mga portrait ng fashion at still life."
+      },
+      "beige": {
+        "name": "Beige",
+        "meta": "Beige, na lumilikha ng isang mainit at simpleng kapaligiran, perpekto para sa pagkuha ng mga pang-araw-araw na eksena, pagkain at buhay."
+      },
+      "ivory": {
+        "name": "Garing",
+        "meta": "Garing puti, na lumilikha ng isang malambot at eleganteng kapaligiran, perpekto para sa pagkuha ng mga kasalan at magagandang portrait."
+      },
+      "terracotta": {
+        "name": "Terracotta",
+        "meta": "Terracotta, na lumilikha ng isang mainit at rustic na kapaligiran, perpekto para sa pagkuha ng mga retro at rural na tema."
+      },
+      "mustard_yellow": {
+        "name": "Mustard Yellow",
+        "meta": "Mustard yellow, na lumilikha ng isang vintage at masiglang kapaligiran, perpekto para sa pagkuha ng mga tema sa kalye at nakakatawa."
+      },
+      "sage_green": {
+        "name": "Sage Green",
+        "meta": "Sage green, na lumilikha ng isang malambot at nakakapreskong kapaligiran, perpekto para sa pagkuha ng mga rural landscape at mga portrait na may nakakapreskong estilo."
+      },
+      "blush_pink": {
+        "name": "Blush Pink",
+        "meta": "Blush pink, na lumilikha ng isang malambot at romantikong kapaligiran, perpekto para sa pagkuha ng mga tema ng babae at matamis."
+      },
+      "dusty_rose": {
+        "name": "Dusty Rose",
+        "meta": "Dusty rose, na lumilikha ng isang vintage at malambot na kapaligiran, perpekto para sa pagkuha ng mga portrait at nostalgic na tema."
+      },
+      "emerald_green": {
+        "name": "Emerald Green",
+        "meta": "Emerald green, na lumilikha ng isang marangal at marangyang kapaligiran, perpekto para sa pagkuha ng mga alahas at fashion shoots."
+      },
+      "teal": {
+        "name": "Teal",
+        "meta": "Teal/duck green, na lumilikha ng isang moderno at natatanging kapaligiran, perpekto para sa pagkuha ng mga creative portrait at artwork."
+      },
+      "coral": {
+        "name": "Coral",
+        "meta": "Coral, na lumilikha ng isang mainit at masiglang kapaligiran, perpekto para sa pagkuha ng mga tema ng bakasyon at araw."
+      },
+      "khaki": {
+        "name": "Khaki",
+        "meta": "Khaki, isang malambot na kulay lupa, na lumilikha ng isang natural at mainit na kapaligiran, perpekto para sa pagkuha ng mga outdoor at tema sa paglalakbay."
+      },
+      "sand": {
+        "name": "Sand",
+        "meta": "Sand, isang malambot na kulay lupa, na lumilikha ng isang kalmado at payapang kapaligiran, perpekto para sa pagkuha ng mga beach at disyerto."
+      },
+      "clay": {
+        "name": "Clay",
+        "meta": "Clay, isang malambot na kulay lupa, na lumilikha ng isang rustic at orihinal na kapaligiran, perpekto para sa pagkuha ng pottery at natural na landscape."
+      },
+      "pistachio_green": {
+        "name": "Pistachio Green",
+        "meta": "Pistachio green, na lumilikha ng isang sariwa at malambot na kapaligiran, perpekto para sa pagkuha ng home decor, pagkain at minimalistang istilo."
+      },
+      "periwinkle": {
+        "name": "Periwinkle",
+        "meta": "Periwinkle, na lumilikha ng isang natatangi at malambot na kapaligiran, perpekto para sa pagkuha ng mga dreamy at misteryosong tema."
+      },
+      "ochre": {
+        "name": "Ochre",
+        "meta": "Ochre, isang earthy yellow, na lumilikha ng isang mainit at vintage na kapaligiran, perpekto para sa pagkuha ng mga nostalgic na istilo at artwork."
+      },
+      "gold": {
+        "name": "Gold",
+        "meta": "Gold, na lumilikha ng isang marangya at kumikinang na kapaligiran, perpekto para sa pagkuha ng mga dinner at pagdiriwang."
+      },
+      "silver": {
+        "name": "Silver",
+        "meta": "Silver, na lumilikha ng isang moderno at teknolohikal na kapaligiran, perpekto para sa pagkuha ng mga futuristic at fashion na tema."
+      },
+      "bronze": {
+        "name": "Bronze",
+        "meta": "Bronze, na lumilikha ng isang vintage at misteryosong kapaligiran, perpekto para sa pagkuha ng mga historical na tema at metallic texture."
+      },
+      "neon_pink": {
+        "name": "Neon Pink",
+        "meta": "Neon pink, na lumilikha ng isang avant-garde at trendy na kapaligiran, perpekto para sa pagkuha ng mga nightclub at street theme."
+      },
+      "neon_green": {
+        "name": "Neon Green",
+        "meta": "Neon green, na lumilikha ng isang buhay at dynamic na kapaligiran, perpekto para sa pagkuha ng mga sport at music festival theme."
+      },
+      "pastel_pink": {
+        "name": "Pastel Pink",
+        "meta": "Pastel pink, na lumilikha ng isang matamis at mapangarapin na kapaligiran, perpekto para sa pagkuha ng mga tema ng bata at babae."
+      },
+      "pastel_blue": {
+        "name": "Pastel Blue",
+        "meta": "Pastel blue, na lumilikha ng isang sariwa at nagpapagaling na kapaligiran, perpekto para sa pagkuha ng mga tanawin ng kalangitan at beach."
+      },
+      "earthy_brown": {
+        "name": "Earthy Brown",
+        "meta": "Earthy brown, na lumilikha ng isang simple at natural na kapaligiran, perpekto para sa pagkuha ng mga tema ng kagubatan at outdoor."
+      },
+      "earthy_green": {
+        "name": "Earthy Green",
+        "meta": "Earthy green, na lumilikha ng isang natural at masiglang kapaligiran, perpekto para sa pagkuha ng mga halaman at ecological na tema."
+      },
+      "ruby_red": {
+        "name": "Ruby Red",
+        "meta": "Ruby red, na lumilikha ng isang madamdamin at maluwalhating kapaligiran, perpekto para sa pagkuha ng mga pista opisyal at tema ng pagdiriwang."
+      },
+      "sapphire_blue": {
+        "name": "Sapphire Blue",
+        "meta": "Sapphire blue, na lumilikha ng isang marangal at misteryosong kapaligiran, perpekto para sa pagkuha ng mga tema ng star sky at alahas."
+      },
+      "pearl_white": {
+        "name": "Pearl White",
+        "meta": "Isang malambot na puti na lumilikha ng isang dalisay at maliwanag na kapaligiran, perpekto para sa pagkuha ng iba't ibang mga sariwa at minimalistang estilo."
+      },
+      "peach_pink": {
+        "name": "Peach Pink",
+        "meta": "Isang mainit na pink tone na lumilikha ng isang malambot at matamis na kapaligiran, perpekto para sa pagkuha ng mga portrait at pagkain, lalo na para sa mga Asian skin tone."
+      },
+      "almond_yellow": {
+        "name": "Almond Yellow",
+        "meta": "Isang mainit na dilaw na tono na lumilikha ng isang buhay at maaraw na kapaligiran, perpekto para sa pagkuha ng mga outdoor at leisure na tema, at maaaring mapahusay ang gintong tono ng mga Asian skin tone."
+      },
+      "corn_color": {
+        "name": "Corn Yellow",
+        "meta": "Isang malambot na dilaw na lumilikha ng isang mainit at kumportableng kapaligiran, perpekto para sa pagkuha ng mga pang-araw-araw at home theme, at nagbibigay ng pakiramdam ng malambot na ilaw."
+      },
+      "mint_green": {
+        "name": "Mint Green",
+        "meta": "Isang sariwang berdeng tono na lumilikha ng isang sariwa at natural na kapaligiran, perpekto para sa pagkuha ng mga halaman, pagkain, at mga portrait na may sariwang istilo."
+      },
+      "ivory_white": {
+        "name": "Ivory White",
+        "meta": "Isang banayad na puti na lumilikha ng isang elegante at malambot na kapaligiran, perpekto para sa pagkuha ng mga bridal gown at fashion portrait, at maaaring magpatingkad sa balat."
+      },
+      "rose_gold": {
+        "name": "Rose Gold",
+        "meta": "Isang mainit na pink tone na lumilikha ng isang romantiko at sopistikadong kapaligiran, perpekto para sa pagkuha ng mga alahas at fashion, at maaaring magdagdag ng malusog na ningning sa mga European skin tone."
+      },
+      "champagne": {
+        "name": "Champagne",
+        "meta": "Isang mainit na gintong tono na lumilikha ng isang elegante at marangal na kapaligiran, perpekto para sa pagkuha ng mga kasalan at pagdiriwang, at maaaring mapahusay ang init ng mga European skin tone."
+      },
+      "lavender": {
+        "name": "Lavender",
+        "meta": "Isang malambot na purple tone na lumilikha ng isang romantiko at mapangarapin na kapaligiran, perpekto para sa pagkuha ng mga portrait at artistic style, at maaaring magdagdag ng natatanging lambot sa mga European skin tone."
+      },
+      "warm_white": {
+        "name": "Warm White",
+        "meta": "Isang malambot at mainit na tono na lumilikha ng isang natural at maaliwalas na kapaligiran, perpekto para sa pagkuha ng iba't ibang pang-araw-araw na eksena, at maaaring magbigay ng natural na ningning sa mga larawan."
+      },
+      "soft_pink": {
+        "name": "Soft Pink",
+        "meta": "Isang malambot na pink na lumilikha ng isang maaliwalas at romantikong kapaligiran, perpekto para sa pagkuha ng mga portrait at mga larawan ng mag-asawa, at maaaring magdagdag ng maaliwalas at romantikong vibe sa mga larawan."
+      },
+      "light_yellow": {
+        "name": "Light Yellow",
+        "meta": "Isang light yellow tone na lumilikha ng isang mainit at malambot na kapaligiran, perpekto para sa pagkuha ng mga eksena sa paglubog ng araw at pagsikat ng araw, at maaaring magdagdag ng pakiramdam ng mainit na ilaw sa mga larawan."
+      },
+      "sky_blue": {
+        "name": "Sky Blue",
+        "meta": "Isang malamig na sky blue tone na lumilikha ng isang sariwa at kalmado na kapaligiran, perpekto para sa pagkuha ng mga tanawin ng kalangitan at karagatan, at maaaring magbalanse ng iba pang mainit na kulay."
+      },
+      "mint": {
+        "name": "Mint",
+        "meta": "Isang malambot na berde na lumilikha ng isang natural at nakakapreskong kapaligiran, perpekto para sa pagkuha ng mga halaman at nakakapreskong tema, at maaaring magbigay ng natural at nakakapreskong pakiramdam."
+      }
+    }
+  },
   "Header": {
     "title": "Master Cat Palapit na Ilaw",
     "tips": "Ang pag-aayos ng liwanag ay nangangailangan ng pag-aayos ng liwanag ng iyong sariling aparato"

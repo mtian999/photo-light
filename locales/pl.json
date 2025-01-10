@@ -10,6 +10,194 @@
       ]
     }
   },
+  "HomePage": {
+    "Color": {
+      "accessible_beige": {
+        "name": "Dostępny Beż",
+        "meta": "Delikatny beż, który tworzy ciepłą i komfortową atmosferę na co dzień, idealny do fotografowania życia domowego i intymnych portretów."
+      },
+      "navy_blue": {
+        "name": "Granatowy",
+        "meta": "Głęboki granatowy, który zapewnia spokojną i głęboką atmosferę, idealny do fotografowania nocnych scenerii i profesjonalnych portretów."
+      },
+      "charcoal_gray": {
+        "name": "Grafitowy",
+        "meta": "Grafitowy, który tworzy nowoczesną i chłodną atmosferę, idealny do fotografowania stylu industrialnego i minimalistycznego."
+      },
+      "olive_green": {
+        "name": "Oliwkowa Zieleń",
+        "meta": "Oliwkowa zieleń, która tworzy naturalną i spokojną atmosferę, idealna do fotografowania plenerów, roślin i motywów retro."
+      },
+      "taupe": {
+        "name": "Taupe",
+        "meta": "Taupe, który tworzy elegancką i vintage atmosferę, idealny do fotografowania portretów mody i martwej natury."
+      },
+      "beige": {
+        "name": "Beż",
+        "meta": "Beż, który tworzy ciepłą i prostą atmosferę, idealny do fotografowania codziennych scen, jedzenia i życia."
+      },
+      "ivory": {
+        "name": "Kość Słoniowa",
+        "meta": "Biel kości słoniowej, która tworzy delikatną i elegancką atmosferę, idealna do fotografowania ślubów i pięknych portretów."
+      },
+      "terracotta": {
+        "name": "Terakota",
+        "meta": "Terakota, która tworzy ciepłą i rustykalną atmosferę, idealna do fotografowania motywów retro i wiejskich."
+      },
+      "mustard_yellow": {
+        "name": "Musztardowy Żółty",
+        "meta": "Musztardowy żółty, który tworzy vintage i żywą atmosferę, idealny do fotografowania ulic i zabawnych motywów."
+      },
+      "sage_green": {
+        "name": "Szałwiowa Zieleń",
+        "meta": "Szałwiowa zieleń, która tworzy delikatną i odświeżającą atmosferę, idealna do fotografowania wiejskich krajobrazów i portretów w odświeżającym stylu."
+      },
+      "blush_pink": {
+        "name": "Róż Puder",
+        "meta": "Róż puder, który tworzy delikatną i romantyczną atmosferę, idealny do fotografowania motywów dziewczęcych i słodkich."
+      },
+      "dusty_rose": {
+        "name": "Pudrowy Róż",
+        "meta": "Pudrowy róż, który tworzy vintage i delikatną atmosferę, idealny do fotografowania portretów i motywów nostalgicznych."
+      },
+      "emerald_green": {
+        "name": "Szmaragdowa Zieleń",
+        "meta": "Szmaragdowa zieleń, która tworzy szlachetną i luksusową atmosferę, idealna do fotografowania biżuterii i sesji mody."
+      },
+      "teal": {
+        "name": "Turkusowy",
+        "meta": "Turkusowy/kaczy zielony, który tworzy modną i wyjątkową atmosferę, idealny do fotografowania kreatywnych portretów i dzieł sztuki."
+      },
+      "coral": {
+        "name": "Koralowy",
+        "meta": "Koralowy, który tworzy ciepłą i żywą atmosferę, idealny do fotografowania wakacji i motywów słonecznych."
+      },
+      "khaki": {
+        "name": "Khaki",
+        "meta": "Khaki, delikatny odcień ziemi, który tworzy naturalną i ciepłą atmosferę, idealny do fotografowania plenerów i motywów podróżniczych."
+      },
+      "sand": {
+        "name": "Piaskowy",
+        "meta": "Piaskowy, delikatny odcień ziemi, który tworzy spokojną i cichą atmosferę, idealny do fotografowania plaż i pustyń."
+      },
+      "clay": {
+        "name": "Glina",
+        "meta": "Glina, delikatny odcień ziemi, który tworzy rustykalną i oryginalną atmosferę, idealny do fotografowania ceramiki i naturalnych krajobrazów."
+      },
+      "pistachio_green": {
+        "name": "Pistacjowa Zieleń",
+        "meta": "Pistacjowa zieleń, która tworzy świeżą i delikatną atmosferę, idealna do fotografowania wystroju domu, jedzenia i minimalistycznego stylu."
+      },
+      "periwinkle": {
+        "name": "Barwinek",
+        "meta": "Barwinek, który tworzy wyjątkową i delikatną atmosferę, idealny do fotografowania motywów marzycielskich i tajemniczych."
+      },
+      "ochre": {
+        "name": "Ochra",
+        "meta": "Ochra, ziemista żółć, która tworzy ciepłą i vintage atmosferę, idealna do fotografowania nostalgicznych stylów i dzieł sztuki."
+      },
+      "gold": {
+        "name": "Złoty",
+        "meta": "Złoty, który tworzy luksusową i lśniącą atmosferę, idealny do fotografowania kolacji i uroczystości."
+      },
+      "silver": {
+        "name": "Srebrny",
+        "meta": "Srebrny, który tworzy nowoczesną i technologiczną atmosferę, idealny do fotografowania futurystycznych i modnych motywów."
+      },
+      "bronze": {
+        "name": "Brązowy",
+        "meta": "Brązowy, który tworzy vintage i tajemniczą atmosferę, idealny do fotografowania historycznych motywów i metalowych tekstur."
+      },
+      "neon_pink": {
+        "name": "Neonowy Róż",
+        "meta": "Neonowy róż, który tworzy awangardową i modną atmosferę, idealny do fotografowania klubów nocnych i motywów ulicznych."
+      },
+      "neon_green": {
+        "name": "Neonowa Zieleń",
+        "meta": "Neonowa zieleń, która tworzy żywą i dynamiczną atmosferę, idealna do fotografowania sportu i motywów festiwali muzycznych."
+      },
+      "pastel_pink": {
+        "name": "Pastelowy Róż",
+        "meta": "Pastelowy róż, który tworzy słodką i marzycielską atmosferę, idealny do fotografowania dzieci i motywów dziewczęcych."
+      },
+      "pastel_blue": {
+        "name": "Pastelowy Niebieski",
+        "meta": "Pastelowy niebieski, który tworzy świeżą i uzdrawiającą atmosferę, idealny do fotografowania nieba i scen plażowych."
+      },
+      "earthy_brown": {
+        "name": "Ziemisty Brąz",
+        "meta": "Ziemisty brąz, który tworzy rustykalną i naturalną atmosferę, idealny do fotografowania lasów i motywów plenerowych."
+      },
+      "earthy_green": {
+        "name": "Ziemista Zieleń",
+        "meta": "Ziemista zieleń, która tworzy naturalną i pełną życia atmosferę, idealna do fotografowania roślin i motywów ekologicznych."
+      },
+      "ruby_red": {
+        "name": "Rubinowa Czerwień",
+        "meta": "Rubinowa czerwień, która tworzy namiętną i wspaniałą atmosferę, idealna do fotografowania świąt i motywów uroczystości."
+      },
+      "sapphire_blue": {
+        "name": "Szafirowy Niebieski",
+        "meta": "Szafirowy niebieski, który tworzy szlachetną i tajemniczą atmosferę, idealny do fotografowania motywów gwieździstego nieba i biżuterii."
+      },
+      "pearl_white": {
+        "name": "Perłowa Biel",
+        "meta": "Delikatna biel, która tworzy czystą i jasną atmosferę, idealna do fotografowania różnorodnych świeżych i minimalistycznych stylów."
+      },
+      "peach_pink": {
+        "name": "Brzoskwiniowy Róż",
+        "meta": "Ciepły odcień różu, który tworzy łagodną i słodką atmosferę, idealny do fotografowania portretów i żywności, szczególnie dla azjatyckich odcieni skóry."
+      },
+      "almond_yellow": {
+        "name": "Migdałowy Żółty",
+        "meta": "Ciepły odcień żółci, który tworzy żywą i słoneczną atmosferę, idealny do fotografowania plenerów i motywów rekreacyjnych, i który może wzmocnić złoty odcień azjatyckich odcieni skóry."
+      },
+      "corn_color": {
+        "name": "Kukurydziany Kolor",
+        "meta": "Delikatny żółty, który tworzy ciepłą i komfortową atmosferę, idealny do fotografowania codziennych i domowych motywów, i który zapewnia uczucie miękkiego światła."
+      },
+      "mint_green": {
+        "name": "Miętowa Zieleń",
+        "meta": "Świeży odcień zieleni, który tworzy świeżą i naturalną atmosferę, idealny do fotografowania roślin, jedzenia i portretów w świeżym stylu."
+      },
+      "ivory_white": {
+        "name": "Biel Kości Słoniowej",
+        "meta": "Delikatna biel, która tworzy elegancką i łagodną atmosferę, idealna do fotografowania sukien ślubnych i portretów mody, i która może rozjaśnić skórę."
+      },
+      "rose_gold": {
+        "name": "Różowe Złoto",
+        "meta": "Ciepły odcień różu, który tworzy romantyczną i wyrafinowaną atmosferę, idealny do fotografowania biżuterii i mody, i który może dodać zdrowego blasku europejskim odcieniom skóry."
+      },
+      "champagne": {
+        "name": "Szampan",
+        "meta": "Ciepły odcień złota, który tworzy elegancką i szlachetną atmosferę, idealny do fotografowania ślubów i uroczystości, i który może wzmocnić ciepło europejskich odcieni skóry."
+      },
+      "lavender": {
+        "name": "Lawenda",
+        "meta": "Delikatny odcień fioletu, który tworzy romantyczną i marzycielską atmosferę, idealny do fotografowania portretów i stylów artystycznych, i który może dodać wyjątkowej miękkości europejskim odcieniom skóry."
+      },
+      "warm_white": {
+        "name": "Ciepła Biel",
+        "meta": "Delikatny, ciepły odcień, który tworzy naturalną i przytulną atmosferę, idealny do fotografowania różnych codziennych scen, i który może nadać zdjęciom naturalny blask."
+      },
+      "soft_pink": {
+        "name": "Delikatny Róż",
+        "meta": "Delikatny róż, który tworzy przytulną i romantyczną atmosferę, idealny do fotografowania portretów i zdjęć par, i który może dodać przytulnego i romantycznego nastroju do zdjęć."
+      },
+      "light_yellow": {
+        "name": "Jasny Żółty",
+        "meta": "Jasny odcień żółci, który tworzy ciepłą i łagodną atmosferę, idealny do fotografowania zachodów i wschodów słońca, i który może dodać zdjęciom ciepłe wrażenie światła."
+      },
+      "sky_blue": {
+        "name": "Niebieski Nieba",
+        "meta": "Chłodny odcień niebieskiego nieba, który tworzy świeżą i spokojną atmosferę, idealny do fotografowania nieba i oceanów, i który może zrównoważyć inne ciepłe kolory."
+      },
+      "mint": {
+        "name": "Mięta",
+        "meta": "Delikatna zieleń, która tworzy naturalną i świeżą atmosferę, idealna do fotografowania roślin i odświeżających motywów, i która może zapewnić naturalne i odświeżające uczucie."
+      }
+    }
+  },
   "Header": {
     "title": "Lampa wypełniająca Mistrza Kotka",
     "tips": "Dostosowanie jasności wymaga dostosowania jasności ekranu własnego urządzenia"

@@ -6,6 +6,194 @@
       "keywords": ["Fill-Licht", "Farbkorrektur", "professionelle Fotografie"]
     }
   },
+  "HomePage": {
+    "Color": {
+      "accessible_beige": {
+        "name": "Barrierefreies Beige",
+        "meta": "Ein sanftes Beige, das eine warme und behagliche Alltagsatmosphäre schafft, ideal für die Aufnahme von Wohnsituationen und herzlichen Porträts."
+      },
+      "navy_blue": {
+        "name": "Marineblau",
+        "meta": "Tiefes Marineblau, das eine ruhige und tiefgründige Atmosphäre erzeugt, ideal für Nachtaufnahmen und Businessporträts."
+      },
+      "charcoal_gray": {
+        "name": "Anthrazitgrau",
+        "meta": "Anthrazitgrau, das eine moderne und kühle Atmosphäre erzeugt, ideal für die Aufnahme von Industrie- und Minimalismus-Stil."
+      },
+      "olive_green": {
+        "name": "Olivgrün",
+        "meta": "Olivgrün, das eine natürliche und ruhige Atmosphäre erzeugt, ideal für die Aufnahme von Outdoor-, Pflanzen- und Retro-Themen."
+      },
+      "taupe": {
+        "name": "Taupe",
+        "meta": "Taupe, das eine elegante und Vintage-Atmosphäre erzeugt, ideal für die Aufnahme von Modeporträts und Stillleben."
+      },
+      "beige": {
+        "name": "Beige",
+        "meta": "Beige, das eine warme und schlichte Atmosphäre erzeugt, ideal für die Aufnahme von Alltags-, Lebensmittel- und Lebensszenen."
+      },
+      "ivory": {
+        "name": "Elfenbein",
+        "meta": "Elfenbeinweiß, das eine weiche und elegante Atmosphäre erzeugt, ideal für die Aufnahme von Hochzeiten und schönen Porträts."
+      },
+      "terracotta": {
+        "name": "Terracotta",
+        "meta": "Terracotta, das eine warme und rustikale Atmosphäre erzeugt, ideal für die Aufnahme von Retro- und ländlichen Themen."
+      },
+      "mustard_yellow": {
+        "name": "Senfgelb",
+        "meta": "Senfgelb, das eine Vintage- und lebhafte Atmosphäre erzeugt, ideal für die Aufnahme von Straßen- und Spaßthemen."
+      },
+      "sage_green": {
+        "name": "Salbeigrün",
+        "meta": "Salbeigrün, das eine zarte und erfrischende Atmosphäre erzeugt, ideal für die Aufnahme von ländlichen und erfrischenden Porträts."
+      },
+      "blush_pink": {
+        "name": "Rouge Rosa",
+        "meta": "Rouge Rosa, das eine weiche und romantische Atmosphäre erzeugt, ideal für die Aufnahme von Mädchen- und Süßthemen."
+      },
+      "dusty_rose": {
+        "name": "Altrosa",
+        "meta": "Altrosa, das eine Vintage- und sanfte Atmosphäre erzeugt, ideal für die Aufnahme von Porträts und nostalgischen Themen."
+      },
+      "emerald_green": {
+        "name": "Smaragdgrün",
+        "meta": "Smaragdgrün, das eine edle und luxuriöse Atmosphäre erzeugt, ideal für die Aufnahme von Schmuck und Mode-Shootings."
+      },
+      "teal": {
+        "name": "Blaugrün",
+        "meta": "Blaugrün/Entengrün, das eine modische und einzigartige Atmosphäre erzeugt, ideal für die Aufnahme von kreativen Porträts und Kunstwerken."
+      },
+      "coral": {
+        "name": "Koralle",
+        "meta": "Koralle, das eine warme und lebendige Atmosphäre erzeugt, ideal für die Aufnahme von Urlaubs- und Sonnenthemen."
+      },
+      "khaki": {
+        "name": "Khaki",
+        "meta": "Khaki, ein sanfter Erdton, der eine natürliche und warme Atmosphäre erzeugt, ideal für die Aufnahme von Outdoor- und Reisethemen."
+      },
+      "sand": {
+        "name": "Sand",
+        "meta": "Sand, ein sanfter Erdton, der eine ruhige und friedliche Atmosphäre erzeugt, ideal für die Aufnahme von Stränden und Wüsten."
+      },
+      "clay": {
+        "name": "Ton",
+        "meta": "Ton, ein sanfter Erdton, der eine rustikale und ursprüngliche Atmosphäre erzeugt, ideal für die Aufnahme von Töpferwaren und Naturlandschaften."
+      },
+      "pistachio_green": {
+        "name": "Pistaziengrün",
+        "meta": "Pistaziengrün, das eine erfrischende und weiche Atmosphäre erzeugt, ideal für die Aufnahme von Wohnaccessoires, Speisen und einem ruhigen Stil."
+      },
+      "periwinkle": {
+        "name": "Immergrün",
+        "meta": "Immergrün, das eine einzigartige und weiche Atmosphäre erzeugt, ideal für die Aufnahme von verträumten und mystischen Themen."
+      },
+      "ochre": {
+        "name": "Ocker",
+        "meta": "Ocker, ein erdiges Gelb, das eine warme und Vintage-Atmosphäre erzeugt, ideal für die Aufnahme von nostalgischen Stilen und Kunstwerken."
+      },
+      "gold": {
+        "name": "Gold",
+        "meta": "Gold, das eine luxuriöse und glänzende Atmosphäre erzeugt, ideal für die Aufnahme von Dinner- und Feierszenen."
+      },
+      "silver": {
+        "name": "Silber",
+        "meta": "Silber, das eine moderne und technologische Atmosphäre erzeugt, ideal für die Aufnahme von futuristischen und modischen Themen."
+      },
+      "bronze": {
+        "name": "Bronze",
+        "meta": "Bronze, das eine Vintage- und mysteriöse Atmosphäre erzeugt, ideal für die Aufnahme von historischen und metallischen Texturen."
+      },
+      "neon_pink": {
+        "name": "Neonpink",
+        "meta": "Neonpink, das eine avantgardistische und trendige Atmosphäre erzeugt, ideal für die Aufnahme von Nachtclubs und Straßenthemen."
+      },
+      "neon_green": {
+        "name": "Neongrün",
+        "meta": "Neongrün, das eine lebhafte und dynamische Atmosphäre erzeugt, ideal für die Aufnahme von Sport- und Musikfestivalthemen."
+      },
+      "pastel_pink": {
+        "name": "Pastellrosa",
+        "meta": "Pastellrosa, das eine süße und verträumte Atmosphäre erzeugt, ideal für die Aufnahme von Kinder- und Mädchenthemen."
+      },
+      "pastel_blue": {
+        "name": "Pastellblau",
+        "meta": "Pastellblau, das eine erfrischende und heilende Atmosphäre erzeugt, ideal für die Aufnahme von Himmels- und Strandszenen."
+      },
+      "earthy_brown": {
+        "name": "Erdebraun",
+        "meta": "Erdebraun, das eine schlichte und natürliche Atmosphäre erzeugt, ideal für die Aufnahme von Wald- und Outdoorthemen."
+      },
+      "earthy_green": {
+        "name": "Erdgrün",
+        "meta": "Erdgrün, das eine natürliche und lebendige Atmosphäre erzeugt, ideal für die Aufnahme von Pflanzen und ökologischen Themen."
+      },
+      "ruby_red": {
+        "name": "Rubinrot",
+        "meta": "Rubinrot, das eine leidenschaftliche und prächtige Atmosphäre erzeugt, ideal für die Aufnahme von Feiertags- und Festtagsmotiven."
+      },
+      "sapphire_blue": {
+        "name": "Saphirblau",
+        "meta": "Saphirblau, das eine edle und mysteriöse Atmosphäre erzeugt, ideal für die Aufnahme von Sternen- und Schmuckthemen."
+      },
+      "pearl_white": {
+        "name": "Perlweiß",
+        "meta": "Ein weiches Weiß, das eine reine und helle Atmosphäre schafft, ideal für die Aufnahme einer Vielzahl von frischen und minimalistischen Stilen."
+      },
+      "peach_pink": {
+        "name": "Pfirsichrosa",
+        "meta": "Ein warmer Rosaton, der eine sanfte und süße Atmosphäre schafft, ideal für die Aufnahme von Porträts und Lebensmitteln, insbesondere für asiatische Hauttöne."
+      },
+      "almond_yellow": {
+        "name": "Mandelgelb",
+        "meta": "Ein warmer Gelbton, der eine lebendige und sonnige Atmosphäre schafft, ideal für die Aufnahme von Outdoor- und Freizeitmotiven und der den goldenen Ton asiatischer Hauttöne verstärken kann."
+      },
+      "corn_color": {
+        "name": "Maisgelb",
+        "meta": "Ein weiches Gelb, das eine warme und behagliche Atmosphäre schafft, ideal für die Aufnahme von Alltags- und Heimthemen und ein Gefühl von weichem Licht vermittelt."
+      },
+      "mint_green": {
+        "name": "Minzgrün",
+        "meta": "Ein erfrischender Grünton, der eine erfrischende und natürliche Atmosphäre schafft, ideal für die Aufnahme von Pflanzen, Speisen und Porträts im erfrischenden Stil."
+      },
+      "ivory_white": {
+        "name": "Elfenbeinweiß",
+        "meta": "Ein sanftes Weiß, das eine elegante und weiche Atmosphäre schafft, ideal für die Aufnahme von Brautmode und modischen Porträts und das die Haut aufhellen kann."
+      },
+      "rose_gold": {
+        "name": "Roségold",
+        "meta": "Ein warmer Rosaton, der eine romantische und raffinierte Atmosphäre schafft, ideal für die Aufnahme von Schmuck und Mode und der insbesondere dem europäischen Hautton einen gesunden Glanz verleihen kann."
+      },
+      "champagne": {
+        "name": "Champagner",
+        "meta": "Ein warmer Goldton, der eine elegante und edle Atmosphäre schafft, ideal für die Aufnahme von Hochzeiten und Feierlichkeiten und der die Wärme europäischer Hauttöne verstärken kann."
+      },
+      "lavender": {
+        "name": "Lavendel",
+        "meta": "Ein weicher Violettton, der eine romantische und verträumte Atmosphäre schafft, ideal für die Aufnahme von Porträts und künstlerischen Stilen und der dem europäischen Hautton eine einzigartige Sanftheit verleihen kann."
+      },
+      "warm_white": {
+        "name": "Warmweiß",
+        "meta": "Ein sanfter, warmer Farbton, der eine natürliche und gemütliche Atmosphäre schafft, ideal für die Aufnahme verschiedener Alltagsszenen und der den Fotos einen natürlichen Glanz verleihen kann."
+      },
+      "soft_pink": {
+        "name": "Sanftrosa",
+        "meta": "Ein sanftes Rosa, das eine gemütliche und romantische Atmosphäre schafft, ideal für die Aufnahme von Porträts und Paarfotos und das den Fotos eine gemütliche und romantische Stimmung verleihen kann."
+      },
+      "light_yellow": {
+        "name": "Hellgelb",
+        "meta": "Ein heller Gelbton, der eine warme und weiche Atmosphäre schafft, ideal für die Aufnahme von Sonnenuntergangs- und Sonnenaufgangsszenen und der den Fotos einen warmen Lichtschein verleihen kann."
+      },
+      "sky_blue": {
+        "name": "Himmelblau",
+        "meta": "Ein kalter Himmelblauton, der eine erfrischende und ruhige Atmosphäre schafft, ideal für die Aufnahme von Himmels- und Meereslandschaften und der andere warme Farben ausgleichen kann."
+      },
+      "mint": {
+        "name": "Minze",
+        "meta": "Ein sanftes Grün, das eine natürliche und erfrischende Atmosphäre schafft, ideal für die Aufnahme von Pflanzen und erfrischenden Themen und der ein natürliches und erfrischendes Gefühl vermitteln kann."
+      }
+    }
+  },
   "Header": {
     "title": "Meisterkatze-Fill-Licht",
     "tips": "Helligkeitsanpassung erfordert die Anpassung der Bildschirmhelligkeit Ihres eigenen Geräts"

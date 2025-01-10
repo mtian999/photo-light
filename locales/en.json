@@ -2,8 +2,196 @@
   "Metadata": {
     "home": {
       "title": "Master Cat Fill Light | Online Fill Light",
-      "description": "The Master Cat fill light is mainly used to provide additional light to enhance or change the lighting conditions in a scene, making your photos look more natural and beautiful. Its main functions include: enhancing natural light, improving skin tones, creating atmosphere, highlighting details, reducing shadows, simulating light sources, color correction, and professional photography.",
-      "keywords": ["fill light", "color correction", "professional photography"]
+      "description": "The Master Cat fill light is mainly used to provide additional light to enhance or change the lighting conditions in a scene, such as Accessible Beige,Navy Blue,Charcoal Gray,Olive Green,Taupe,Beige,Terracotta,Mustard Yellow,Sage Green,Blush Pink,Dusty Rose,Emerald Green,Teal,Coral,Lavender,Khaki,Sand,Clay,Pistachio Green,Sky Blue,Periwinkle,Ochre,Gold,Silver,Bronze,Neon Pink,Neon Green,Pastel Pink,Pastel Blue,Earthy Brown,Earthy Green,Sapphire Blue, making your photos look more natural and beautiful. Its main functions include: enhancing natural light, improving skin tones, creating atmosphere, highlighting details, reducing shadows, simulating light sources, color correction, and professional photography.",
+      "keywords": "Accessible Beige,Navy Blue,Charcoal Gray,Olive Green,Taupe,Beige,Terracotta,Mustard Yellow,Sage Green,Blush Pink,Dusty Rose,Emerald Green,Teal,Coral,Lavender,Khaki,Sand,Clay,Pistachio Green,Sky Blue,Periwinkle,Ochre,Gold,Silver,Bronze,Neon Pink,Neon Green,Pastel Pink,Pastel Blue,Earthy Brown,Earthy Green,Sapphire Blue"
+    }
+  },
+  "HomePage": {
+    "Color": {
+      "accessible_beige": {
+        "name": "Accessible Beige",
+        "meta": "A soft beige that creates a warm and comfortable everyday atmosphere, ideal for capturing home life and intimate portraits."
+      },
+      "navy_blue": {
+        "name": "Navy Blue",
+        "meta": "A deep navy blue that provides a calm and profound atmosphere, ideal for capturing night scenes and professional portraits."
+      },
+      "charcoal_gray": {
+        "name": "Charcoal Gray",
+        "meta": "A charcoal gray that creates a modern and cool atmosphere, ideal for capturing industrial-style and minimalist styles."
+      },
+      "olive_green": {
+        "name": "Olive Green",
+        "meta": "An olive green that creates a natural and tranquil atmosphere, ideal for capturing outdoors, plants, and retro themes."
+      },
+      "taupe": {
+        "name": "Taupe",
+        "meta": "A taupe that creates an elegant and vintage atmosphere, ideal for capturing fashion portraits and still life."
+      },
+      "beige": {
+        "name": "Beige",
+        "meta": "A beige that creates a warm and simple atmosphere, ideal for capturing daily, food, and life scenes."
+      },
+      "ivory": {
+        "name": "Ivory",
+        "meta": "An ivory white that creates a soft and elegant atmosphere, ideal for capturing weddings and beautiful portraits."
+      },
+      "terracotta": {
+        "name": "Terracotta",
+        "meta": "A terracotta that creates a warm and rustic atmosphere, ideal for capturing retro and rural themes."
+      },
+      "mustard_yellow": {
+        "name": "Mustard Yellow",
+        "meta": "A mustard yellow that creates a vintage and vibrant atmosphere, ideal for capturing street and fun themes."
+      },
+      "sage_green": {
+        "name": "Sage Green",
+        "meta": "A sage green that creates a subtle and refreshing atmosphere, ideal for capturing rural landscapes and refreshing style portraits."
+      },
+      "blush_pink": {
+        "name": "Blush Pink",
+        "meta": "A blush pink that creates a soft and romantic atmosphere, ideal for capturing girl and sweet themes."
+      },
+      "dusty_rose": {
+        "name": "Dusty Rose",
+        "meta": "A dusty rose that creates a vintage and gentle atmosphere, ideal for capturing portraits and nostalgic themes."
+      },
+      "emerald_green": {
+        "name": "Emerald Green",
+        "meta": "An emerald green that creates a noble and luxurious atmosphere, ideal for capturing jewelry and fashion shoots."
+      },
+      "teal": {
+        "name": "Teal",
+        "meta": "A teal/duck green that creates a fashionable and unique atmosphere, ideal for capturing creative portraits and artworks."
+      },
+      "coral": {
+        "name": "Coral",
+        "meta": "A coral that creates a warm and lively atmosphere, ideal for capturing vacation and sunny themes."
+      },
+      "khaki": {
+        "name": "Khaki",
+        "meta": "Khaki, a soft earth tone, that creates a natural and warm atmosphere, ideal for capturing outdoor and travel themes."
+      },
+      "sand": {
+        "name": "Sand",
+        "meta": "Sand, a soft earth tone, that creates a calm and peaceful atmosphere, ideal for capturing beaches and deserts."
+      },
+      "clay": {
+        "name": "Clay",
+        "meta": "Clay, a soft earth tone, that creates a rustic and original atmosphere, ideal for capturing pottery and natural landscapes."
+      },
+      "pistachio_green": {
+        "name": "Pistachio Green",
+        "meta": "A pistachio green that creates a fresh and soft atmosphere, ideal for capturing home decor, food, and a calm style."
+      },
+      "periwinkle": {
+        "name": "Periwinkle",
+        "meta": "A periwinkle that creates a unique and soft atmosphere, ideal for capturing dreamy and mysterious themes."
+      },
+      "ochre": {
+        "name": "Ochre",
+        "meta": "Ochre, an earthy yellow, that creates a warm and vintage atmosphere, ideal for capturing nostalgic styles and artworks."
+      },
+      "gold": {
+        "name": "Gold",
+        "meta": "Gold, that creates a luxurious and glittering atmosphere, ideal for capturing dinner and celebratory scenes."
+      },
+      "silver": {
+        "name": "Silver",
+        "meta": "Silver, that creates a modern and technological atmosphere, ideal for capturing futuristic and fashionable themes."
+      },
+      "bronze": {
+        "name": "Bronze",
+        "meta": "Bronze, that creates a vintage and mysterious atmosphere, ideal for capturing historical and metallic texture works."
+      },
+      "neon_pink": {
+        "name": "Neon Pink",
+        "meta": "Neon pink, that creates an avant-garde and trendy atmosphere, ideal for capturing night clubs and street themes."
+      },
+      "neon_green": {
+        "name": "Neon Green",
+        "meta": "Neon green, that creates a lively and dynamic atmosphere, ideal for capturing sports and music festival themes."
+      },
+      "pastel_pink": {
+        "name": "Pastel Pink",
+        "meta": "Pastel pink, that creates a sweet and dreamy atmosphere, ideal for capturing children and girl themes."
+      },
+      "pastel_blue": {
+        "name": "Pastel Blue",
+        "meta": "Pastel blue, that creates a fresh and healing atmosphere, ideal for capturing sky and beach scenes."
+      },
+      "earthy_brown": {
+        "name": "Earthy Brown",
+        "meta": "Earthy brown, that creates a simple and natural atmosphere, ideal for capturing forests and outdoor themes."
+      },
+      "earthy_green": {
+        "name": "Earthy Green",
+        "meta": "Earthy green, that creates a natural and vibrant atmosphere, ideal for capturing plants and ecological themes."
+      },
+      "ruby_red": {
+        "name": "Ruby Red",
+        "meta": "Ruby red, that creates a passionate and magnificent atmosphere, ideal for capturing holiday and celebratory themes."
+      },
+      "sapphire_blue": {
+        "name": "Sapphire Blue",
+        "meta": "Sapphire blue, that creates a noble and mysterious atmosphere, ideal for capturing starry sky and jewelry themes."
+      },
+      "pearl_white": {
+        "name": "Pearl White",
+        "meta": "A soft white that creates a pure and bright atmosphere, ideal for capturing a variety of fresh and minimalist styles."
+      },
+      "peach_pink": {
+        "name": "Peach Pink",
+        "meta": "A warm pink tone that creates a gentle and sweet atmosphere, ideal for capturing portraits and food, especially for Asian skin tones."
+      },
+      "almond_yellow": {
+        "name": "Almond Yellow",
+        "meta": "A warm yellow tone that creates a vibrant and sunny atmosphere, ideal for capturing outdoor and leisure themes, and that can enhance the golden tone of Asian skin tones."
+      },
+      "corn_color": {
+        "name": "Corn Yellow",
+        "meta": "A soft yellow that creates a warm and comfortable atmosphere, ideal for capturing daily and home themes, and provides a feeling of soft light."
+      },
+      "mint_green": {
+        "name": "Mint Green",
+        "meta": "A refreshing green tone that creates a fresh and natural atmosphere, ideal for capturing plants, food, and portraits with a fresh style."
+      },
+      "ivory_white": {
+        "name": "Ivory White",
+        "meta": "A gentle white that creates an elegant and soft atmosphere, ideal for capturing wedding dresses and fashionable portraits, and that can brighten the skin."
+      },
+      "rose_gold": {
+        "name": "Rose Gold",
+        "meta": "A warm pink tone that creates a romantic and refined atmosphere, ideal for capturing jewelry and fashion, and that can especially add a healthy glow to European skin tones."
+      },
+      "champagne": {
+        "name": "Champagne",
+        "meta": "A warm golden tone that creates an elegant and noble atmosphere, ideal for capturing weddings and celebrations, and that can enhance the warmth of European skin tones."
+      },
+      "lavender": {
+        "name": "Lavender",
+        "meta": "A soft purple tone that creates a romantic and dreamy atmosphere, ideal for capturing portraits and artistic styles, and that can add a unique softness to European skin tones."
+      },
+      "warm_white": {
+        "name": "Warm White",
+        "meta": "A soft warm tone that creates a natural and cozy atmosphere, ideal for capturing various daily scenes, and that can bring a natural glow to photos."
+      },
+      "soft_pink": {
+        "name": "Soft Pink",
+        "meta": "A soft pink that creates a cozy and romantic atmosphere, ideal for capturing portraits and couple photos, and that can add a cozy and romantic mood to photos."
+      },
+      "light_yellow": {
+        "name": "Light Yellow",
+        "meta": "A light yellow tone that creates a warm and soft atmosphere, ideal for capturing sunset and sunrise scenes, and that can add a feeling of warm light to photos."
+      },
+      "sky_blue": {
+        "name": "Sky Blue",
+        "meta": "A cool sky blue tone that creates a fresh and calm atmosphere, ideal for capturing skies and oceans, and that can balance other warm colors."
+      },
+      "mint": {
+        "name": "Mint",
+        "meta": "A soft green that creates a natural and fresh atmosphere, ideal for capturing plants and refreshing themes, and that can bring a natural and refreshing feeling."
+      }
     }
   },
   "Header": {

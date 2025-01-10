@@ -9,6 +9,7 @@ import "@/styles/loading.css";
 import { Analytics } from "@vercel/analytics/react";
 import { Viewport } from "next";
 import { NextIntlClientProvider } from "next-intl";
+import { getMessages } from "next-intl/server";
 
 // export const fontSans = FontSans({
 //   subsets: ["latin"],
@@ -30,7 +31,7 @@ export const viewport: Viewport = {
   themeColor: siteConfig.themeColors,
 };
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
   params: { lang },
 }: {
@@ -38,12 +39,12 @@ export default function RootLayout({
   params: { lang: string };
 }) {
   let langName = lang !== "" ? lang : defaultLocale;
-
+  const messages = await getMessages();
   return (
     <html lang={lang || defaultLocale} suppressHydrationWarning>
       <head />
       <body className={cn("min-h-screen bg-background font-sans antialiased")}>
-        <NextIntlClientProvider locale={langName}>
+        <NextIntlClientProvider locale={langName} messages={messages}>
           <ThemeProvider
             attribute="class"
             defaultTheme={siteConfig.nextThemeColor}

@@ -10,6 +10,194 @@
       ]
     }
   },
+  "HomePage": {
+    "Color": {
+      "accessible_beige": {
+        "name": "Tillgänglig Beige",
+        "meta": "En mjuk beige som skapar en varm och behaglig vardagsatmosfär, perfekt för att fotografera hemmiljöer och intima porträtt."
+      },
+      "navy_blue": {
+        "name": "Marinblå",
+        "meta": "En djup marinblå som ger en lugn och djup atmosfär, perfekt för att fotografera nattscener och affärsporträtt."
+      },
+      "charcoal_gray": {
+        "name": "Kolkgrå",
+        "meta": "En kolkgrå som skapar en modern och sval atmosfär, perfekt för att fotografera industriell stil och minimalistisk stil."
+      },
+      "olive_green": {
+        "name": "Olivgrön",
+        "meta": "En olivgrön som skapar en naturlig och lugn atmosfär, perfekt för att fotografera utomhus, växter och retroteman."
+      },
+      "taupe": {
+        "name": "Taupe",
+        "meta": "En taupe som skapar en elegant och vintage atmosfär, perfekt för att fotografera modeporträtt och stilleben."
+      },
+      "beige": {
+        "name": "Beige",
+        "meta": "En beige som skapar en varm och enkel atmosfär, perfekt för att fotografera vardagliga scener, mat och liv."
+      },
+      "ivory": {
+        "name": "Elfenben",
+        "meta": "En elfenbensvit som skapar en mjuk och elegant atmosfär, perfekt för att fotografera bröllop och vackra porträtt."
+      },
+      "terracotta": {
+        "name": "Terracotta",
+        "meta": "En terracotta som skapar en varm och rustik atmosfär, perfekt för att fotografera retro- och lantliga teman."
+      },
+      "mustard_yellow": {
+        "name": "Senapsgul",
+        "meta": "En senapsgul som skapar en vintage och livfull atmosfär, perfekt för att fotografera gator och roliga teman."
+      },
+      "sage_green": {
+        "name": "Salviagrön",
+        "meta": "En salviagrön som skapar en mjuk och uppfriskande atmosfär, perfekt för att fotografera lantliga landskap och porträtt med en uppfriskande stil."
+      },
+      "blush_pink": {
+        "name": "Rodnad Rosa",
+        "meta": "En rodnad rosa som skapar en mjuk och romantisk atmosfär, perfekt för att fotografera tjej- och söta teman."
+      },
+      "dusty_rose": {
+        "name": "Dammig Rosa",
+        "meta": "En dammig rosa som skapar en vintage och mild atmosfär, perfekt för att fotografera porträtt och nostalgiska teman."
+      },
+      "emerald_green": {
+        "name": "Smaragdgrön",
+        "meta": "En smaragdgrön som skapar en ädel och lyxig atmosfär, perfekt för att fotografera smycken och modefotograferingar."
+      },
+      "teal": {
+        "name": "Blågrön",
+        "meta": "En blågrön/andgrön som skapar en modern och unik atmosfär, perfekt för att fotografera kreativa porträtt och konstverk."
+      },
+      "coral": {
+        "name": "Korall",
+        "meta": "En korall som skapar en varm och livlig atmosfär, perfekt för att fotografera semester- och soltema."
+      },
+      "khaki": {
+        "name": "Khaki",
+        "meta": "En khaki, en mjuk jordton, som skapar en naturlig och varm atmosfär, perfekt för att fotografera utomhus- och reseteman."
+      },
+      "sand": {
+        "name": "Sand",
+        "meta": "En sand, en mjuk jordton, som skapar en lugn och fridfull atmosfär, perfekt för att fotografera stränder och öknar."
+      },
+      "clay": {
+        "name": "Lera",
+        "meta": "En lera, en mjuk jordton, som skapar en rustik och originell atmosfär, perfekt för att fotografera keramik och naturlandskap."
+      },
+      "pistachio_green": {
+        "name": "Pistagegrön",
+        "meta": "En pistagegrön som skapar en fräsch och mjuk atmosfär, perfekt för att fotografera heminredning, mat och minimalistisk stil."
+      },
+      "periwinkle": {
+        "name": "Vintergröna",
+        "meta": "En vintergröna som skapar en unik och mjuk atmosfär, perfekt för att fotografera drömska och mystiska teman."
+      },
+      "ochre": {
+        "name": "Ockra",
+        "meta": "En ockra, en jordgul, som skapar en varm och vintage atmosfär, perfekt för att fotografera nostalgiska stilar och konstverk."
+      },
+      "gold": {
+        "name": "Guld",
+        "meta": "Ett guld som skapar en lyxig och glänsande atmosfär, perfekt för att fotografera middagar och festliga scener."
+      },
+      "silver": {
+        "name": "Silver",
+        "meta": "Ett silver som skapar en modern och teknisk atmosfär, perfekt för att fotografera futuristiska och modeteman."
+      },
+      "bronze": {
+        "name": "Brons",
+        "meta": "Ett brons som skapar en vintage och mystisk atmosfär, perfekt för att fotografera historiska teman och metalliska texturer."
+      },
+      "neon_pink": {
+        "name": "Neonrosa",
+        "meta": "En neonrosa som skapar en avantgardistisk och trendig atmosfär, perfekt för att fotografera nattklubbar och gator."
+      },
+      "neon_green": {
+        "name": "Neongrön",
+        "meta": "En neongrön som skapar en livlig och dynamisk atmosfär, perfekt för att fotografera sport- och musikfestivalsteman."
+      },
+      "pastel_pink": {
+        "name": "Pastellrosa",
+        "meta": "En pastellrosa som skapar en söt och drömmande atmosfär, perfekt för att fotografera barn- och flickteman."
+      },
+      "pastel_blue": {
+        "name": "Pastellblå",
+        "meta": "En pastellblå som skapar en fräsch och läkande atmosfär, perfekt för att fotografera himmel och strandscener."
+      },
+      "earthy_brown": {
+        "name": "Jordbrun",
+        "meta": "En jordbrun som skapar en enkel och naturlig atmosfär, perfekt för att fotografera skogar och utomhusteman."
+      },
+      "earthy_green": {
+        "name": "Jordgrön",
+        "meta": "En jordgrön som skapar en naturlig och levande atmosfär, perfekt för att fotografera växter och ekologiska teman."
+      },
+      "ruby_red": {
+        "name": "Rubinröd",
+        "meta": "En rubinröd som skapar en passionerad och magnifik atmosfär, perfekt för att fotografera högtider och festteman."
+      },
+      "sapphire_blue": {
+        "name": "Safirblå",
+        "meta": "En safirblå som skapar en ädel och mystisk atmosfär, perfekt för att fotografera stjärnhimmel- och smyckesteman."
+      },
+      "pearl_white": {
+        "name": "Pärlvit",
+        "meta": "En mjuk vit som skapar en ren och ljus atmosfär, perfekt för att fotografera en mängd olika fräscha och minimalistiska stilar."
+      },
+      "peach_pink": {
+        "name": "Persikorosa",
+        "meta": "En varm rosa nyans som skapar en mjuk och söt atmosfär, perfekt för att fotografera porträtt och mat, särskilt för asiatiska hudtoner."
+      },
+      "almond_yellow": {
+        "name": "Mandelgul",
+        "meta": "En varm gul nyans som skapar en livfull och solig atmosfär, perfekt för att fotografera utomhus- och fritidsteman, och som kan förstärka den gyllene tonen i asiatiska hudtoner."
+      },
+      "corn_color": {
+        "name": "Majsgul",
+        "meta": "En mjuk gul som skapar en varm och behaglig atmosfär, perfekt för att fotografera vardagliga och hemmiljöer, och som ger en känsla av mjukt ljus."
+      },
+      "mint_green": {
+        "name": "Mintgrön",
+        "meta": "En fräsch grön nyans som skapar en fräsch och naturlig atmosfär, perfekt för att fotografera växter, mat och porträtt i en fräsch stil."
+      },
+      "ivory_white": {
+        "name": "Elfenbensvit",
+        "meta": "En mild vit som skapar en elegant och mjuk atmosfär, perfekt för att fotografera brudklänningar och modeporträtt, och som kan ljusa upp huden."
+      },
+      "rose_gold": {
+        "name": "Roséguld",
+        "meta": "En varm rosa nyans som skapar en romantisk och sofistikerad atmosfär, perfekt för att fotografera smycken och mode, och som kan ge en hälsosam lyster till europeiska hudtoner."
+      },
+      "champagne": {
+        "name": "Champagne",
+        "meta": "En varm gyllene nyans som skapar en elegant och ädel atmosfär, perfekt för att fotografera bröllop och fester, och som kan förstärka värmen hos europeiska hudtoner."
+      },
+      "lavender": {
+        "name": "Lavendel",
+        "meta": "En mjuk lila nyans som skapar en romantisk och drömmande atmosfär, perfekt för att fotografera porträtt och konstnärliga stilar, och som kan ge en unik mjukhet till europeiska hudtoner."
+      },
+      "warm_white": {
+        "name": "Varmvit",
+        "meta": "En mjuk, varm nyans som skapar en naturlig och mysig atmosfär, perfekt för att fotografera olika vardagsscener, och som kan ge en naturlig lyster till bilderna."
+      },
+      "soft_pink": {
+        "name": "Mjukrosa",
+        "meta": "En mjuk rosa som skapar en mysig och romantisk atmosfär, perfekt för att fotografera porträtt och parbilder, och som kan ge bilderna en mysig och romantisk stämning."
+      },
+      "light_yellow": {
+        "name": "Ljusgul",
+        "meta": "En ljusgul nyans som skapar en varm och mjuk atmosfär, perfekt för att fotografera solnedgångs- och soluppgångsscener, och som kan ge bilderna en känsla av varmt ljus."
+      },
+      "sky_blue": {
+        "name": "Himmelsblå",
+        "meta": "En sval himmelsblå nyans som skapar en fräsch och lugn atmosfär, perfekt för att fotografera himmel och hav, och som kan balansera andra varma färger."
+      },
+      "mint": {
+        "name": "Mint",
+        "meta": "En mjuk grön som skapar en naturlig och fräsch atmosfär, perfekt för att fotografera växter och uppfriskande teman, och som kan ge en naturlig och uppfriskande känsla."
+      }
+    }
+  },
   "Header": {
     "title": "Kattmästarens Fyllbelysning",
     "tips": "Ljushetsjusteringen kräver att du justerar skärmljushetet på din egen enhet"

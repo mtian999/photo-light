@@ -10,6 +10,194 @@
       ]
     }
   },
+  "HomePage": {
+    "Color": {
+      "accessible_beige": {
+        "name": "Beige Accessible",
+        "meta": "Un beige doux qui crée une atmosphère chaleureuse et confortable au quotidien, idéal pour photographier des scènes de vie à la maison et des portraits chaleureux."
+      },
+      "navy_blue": {
+        "name": "Bleu Marine",
+        "meta": "Bleu marine profond, qui offre une atmosphère calme et profonde, idéal pour photographier des scènes de nuit et des portraits professionnels."
+      },
+      "charcoal_gray": {
+        "name": "Gris Charbon",
+        "meta": "Gris charbon, qui crée une atmosphère moderne et froide, idéal pour photographier des styles industriels et minimalistes."
+      },
+      "olive_green": {
+        "name": "Vert Olive",
+        "meta": "Vert olive, qui crée une atmosphère naturelle et paisible, idéal pour photographier des extérieurs, des plantes et des thèmes rétro."
+      },
+      "taupe": {
+        "name": "Taupe",
+        "meta": "Taupe, qui crée une atmosphère élégante et vintage, idéal pour photographier des portraits de mode et des natures mortes."
+      },
+      "beige": {
+        "name": "Beige",
+        "meta": "Beige, qui crée une atmosphère chaleureuse et simple, idéal pour photographier des scènes de la vie quotidienne, de la nourriture et de la vie."
+      },
+      "ivory": {
+        "name": "Ivoire",
+        "meta": "Blanc ivoire, qui crée une atmosphère douce et élégante, idéal pour photographier des mariages et de beaux portraits."
+      },
+      "terracotta": {
+        "name": "Terre Cuite",
+        "meta": "Terre cuite, qui crée une atmosphère chaleureuse et rustique, idéal pour photographier des thèmes rétro et ruraux."
+      },
+      "mustard_yellow": {
+        "name": "Jaune Moutarde",
+        "meta": "Jaune moutarde, qui crée une atmosphère vintage et vibrante, idéal pour photographier des thèmes de rue et amusants."
+      },
+      "sage_green": {
+        "name": "Vert Sauge",
+        "meta": "Vert sauge, qui crée une atmosphère douce et rafraîchissante, idéal pour photographier des paysages ruraux et des portraits de style rafraîchissant."
+      },
+      "blush_pink": {
+        "name": "Rose Pâle",
+        "meta": "Rose pâle, qui crée une atmosphère douce et romantique, idéal pour photographier des thèmes de filles et de sucreries."
+      },
+      "dusty_rose": {
+        "name": "Rose Poudré",
+        "meta": "Rose poudré, qui crée une atmosphère vintage et douce, idéal pour photographier des portraits et des thèmes nostalgiques."
+      },
+      "emerald_green": {
+        "name": "Vert Émeraude",
+        "meta": "Vert émeraude, qui crée une atmosphère noble et luxueuse, idéal pour photographier des bijoux et des séances de mode."
+      },
+      "teal": {
+        "name": "Bleu Canard",
+        "meta": "Bleu canard/vert canard, qui crée une atmosphère moderne et unique, idéal pour photographier des portraits créatifs et des œuvres d'art."
+      },
+      "coral": {
+        "name": "Corail",
+        "meta": "Corail, qui crée une atmosphère chaleureuse et vibrante, idéal pour photographier des thèmes de vacances et de soleil."
+      },
+      "khaki": {
+        "name": "Kaki",
+        "meta": "Kaki, une teinte terre douce, qui crée une atmosphère naturelle et chaleureuse, idéal pour photographier des extérieurs et des thèmes de voyage."
+      },
+      "sand": {
+        "name": "Sable",
+        "meta": "Sable, une teinte terre douce, qui crée une atmosphère calme et paisible, idéal pour photographier des plages et des déserts."
+      },
+      "clay": {
+        "name": "Argile",
+        "meta": "Argile, une teinte terre douce, qui crée une atmosphère rustique et originale, idéal pour photographier de la poterie et des paysages naturels."
+      },
+      "pistachio_green": {
+        "name": "Vert Pistache",
+        "meta": "Vert pistache, qui crée une atmosphère fraîche et douce, idéal pour photographier la décoration intérieure, la nourriture et le style minimaliste."
+      },
+      "periwinkle": {
+        "name": "Pervenche",
+        "meta": "Pervenche, qui crée une atmosphère unique et douce, idéal pour photographier des thèmes oniriques et mystérieux."
+      },
+      "ochre": {
+        "name": "Ocre",
+        "meta": "Ocre, un jaune terreux, qui crée une atmosphère chaleureuse et vintage, idéal pour photographier des styles nostalgiques et des œuvres d'art."
+      },
+      "gold": {
+        "name": "Or",
+        "meta": "Or, qui crée une atmosphère luxueuse et brillante, idéal pour photographier des dîners et des célébrations."
+      },
+      "silver": {
+        "name": "Argent",
+        "meta": "Argent, qui crée une atmosphère moderne et technologique, idéal pour photographier des thèmes futuristes et de mode."
+      },
+      "bronze": {
+        "name": "Bronze",
+        "meta": "Bronze, qui crée une atmosphère vintage et mystérieuse, idéal pour photographier des thèmes historiques et des textures métalliques."
+      },
+      "neon_pink": {
+        "name": "Rose Néon",
+        "meta": "Rose néon, qui crée une atmosphère avant-gardiste et tendance, idéal pour photographier des boîtes de nuit et des thèmes de rue."
+      },
+      "neon_green": {
+        "name": "Vert Néon",
+        "meta": "Vert néon, qui crée une atmosphère vive et dynamique, idéal pour photographier des sports et des festivals de musique."
+      },
+      "pastel_pink": {
+        "name": "Rose Pastel",
+        "meta": "Rose pastel, qui crée une atmosphère douce et rêveuse, idéal pour photographier des thèmes d'enfants et de filles."
+      },
+      "pastel_blue": {
+        "name": "Bleu Pastel",
+        "meta": "Bleu pastel, qui crée une atmosphère fraîche et apaisante, idéal pour photographier des ciels et des scènes de plage."
+      },
+      "earthy_brown": {
+        "name": "Brun Terre",
+        "meta": "Brun terre, qui crée une atmosphère rustique et naturelle, idéal pour photographier des forêts et des thèmes de plein air."
+      },
+      "earthy_green": {
+        "name": "Vert Terre",
+        "meta": "Vert terre, qui crée une atmosphère naturelle et pleine de vie, idéal pour photographier des plantes et des thèmes écologiques."
+      },
+      "ruby_red": {
+        "name": "Rouge Rubis",
+        "meta": "Rouge rubis, qui crée une atmosphère passionnée et magnifique, idéal pour photographier des fêtes et des célébrations."
+      },
+      "sapphire_blue": {
+        "name": "Bleu Saphir",
+        "meta": "Bleu saphir, qui crée une atmosphère noble et mystérieuse, idéal pour photographier des thèmes de ciel étoilé et de bijoux."
+      },
+      "pearl_white": {
+        "name": "Blanc Perle",
+        "meta": "Un blanc doux qui crée une atmosphère pure et lumineuse, idéal pour photographier une variété de styles frais et minimalistes."
+      },
+      "peach_pink": {
+        "name": "Rose Pêche",
+        "meta": "Un ton rose chaud qui crée une atmosphère douce et sucrée, idéal pour photographier des portraits et de la nourriture, en particulier pour les teintes de peau asiatiques."
+      },
+      "almond_yellow": {
+        "name": "Jaune Amande",
+        "meta": "Un ton jaune chaud qui crée une atmosphère vibrante et ensoleillée, idéal pour photographier des extérieurs et des thèmes de loisirs, et qui peut rehausser le ton doré des teintes de peau asiatiques."
+      },
+      "corn_color": {
+        "name": "Jaune Maïs",
+        "meta": "Un jaune doux qui crée une atmosphère chaleureuse et confortable, idéal pour photographier des thèmes quotidiens et domestiques, et qui procure une sensation de lumière douce."
+      },
+      "mint_green": {
+        "name": "Vert Menthe",
+        "meta": "Un ton vert frais qui crée une atmosphère fraîche et naturelle, idéal pour photographier des plantes, de la nourriture et des portraits de style frais."
+      },
+      "ivory_white": {
+        "name": "Blanc Ivoire",
+        "meta": "Un blanc doux qui crée une atmosphère élégante et douce, idéal pour photographier des robes de mariée et des portraits de mode, et qui peut éclaircir la peau."
+      },
+      "rose_gold": {
+        "name": "Or Rose",
+        "meta": "Un ton rose chaud qui crée une atmosphère romantique et raffinée, idéal pour photographier des bijoux et de la mode, et qui peut ajouter un éclat sain aux teintes de peau européennes."
+      },
+      "champagne": {
+        "name": "Champagne",
+        "meta": "Un ton doré chaud qui crée une atmosphère élégante et noble, idéal pour photographier des mariages et des célébrations, et qui peut rehausser la chaleur des teintes de peau européennes."
+      },
+      "lavender": {
+        "name": "Lavande",
+        "meta": "Un ton violet doux qui crée une atmosphère romantique et rêveuse, idéal pour photographier des portraits et des styles artistiques, et qui peut ajouter une douceur unique aux teintes de peau européennes."
+      },
+      "warm_white": {
+        "name": "Blanc Chaud",
+        "meta": "Un ton chaud et doux qui crée une atmosphère naturelle et chaleureuse, idéal pour photographier diverses scènes quotidiennes, et qui peut donner un éclat naturel aux photos."
+      },
+      "soft_pink": {
+        "name": "Rose Doux",
+        "meta": "Un rose doux qui crée une atmosphère chaleureuse et romantique, idéal pour photographier des portraits et des photos de couples, et qui peut ajouter une atmosphère chaleureuse et romantique aux photos."
+      },
+      "light_yellow": {
+        "name": "Jaune Clair",
+        "meta": "Un ton jaune clair qui crée une atmosphère chaleureuse et douce, idéal pour photographier des scènes de coucher et de lever de soleil, et qui peut ajouter une sensation de lumière chaude aux photos."
+      },
+      "sky_blue": {
+        "name": "Bleu Ciel",
+        "meta": "Un ton bleu ciel froid qui crée une atmosphère fraîche et calme, idéal pour photographier des ciels et des océans, et qui peut équilibrer d'autres couleurs chaudes."
+      },
+      "mint": {
+        "name": "Menthe",
+        "meta": "Un vert doux qui crée une atmosphère naturelle et fraîche, idéal pour photographier des plantes et des thèmes rafraîchissants, et qui peut apporter une sensation naturelle et rafraîchissante."
+      }
+    }
+  },
   "Header": {
     "title": "Lampe de remplissage du Maître Chat",
     "tips": "L'ajustement de la luminosité nécessite l'ajustement de la luminosité de l'écran de votre propre appareil"

@@ -6,6 +6,195 @@
       "keywords": ["bổ sáng", "điều chỉnh màu sắc", "nhiếp ảnh chuyên nghiệp"]
     }
   },
+  "HomePage": {
+    "Color": {
+      "accessible_beige": {
+        "name": "Beige dễ tiếp cận",
+        "meta": "Màu be nhẹ nhàng tạo không khí ấm cúng, thoải mái hàng ngày, lý tưởng để chụp ảnh cuộc sống gia đình và chân dung thân mật."
+      },
+      "navy_blue": {
+        "name": "Xanh navy",
+        "meta": "Màu xanh navy đậm mang đến không khí trầm lắng, sâu sắc, lý tưởng để chụp ảnh cảnh đêm và chân dung công việc."
+      },
+      "charcoal_gray": {
+        "name": "Xám than",
+        "meta": "Màu xám than tạo không khí hiện đại và lạnh lùng, lý tưởng để chụp ảnh phong cách công nghiệp và tối giản."
+      },
+      "olive_green": {
+        "name": "Xanh ô liu",
+        "meta": "Màu xanh ô liu tạo không khí tự nhiên và yên bình, lý tưởng để chụp ảnh ngoài trời, cây cối và các chủ đề cổ điển."
+      },
+      "taupe": {
+        "name": "Nâu xám",
+        "meta": "Màu nâu xám tạo không khí thanh lịch và cổ điển, lý tưởng để chụp ảnh chân dung thời trang và tĩnh vật."
+      },
+      "beige": {
+        "name": "Màu be",
+        "meta": "Màu be tạo không khí ấm áp và đơn giản, lý tưởng để chụp ảnh sinh hoạt, món ăn và cảnh đời thường."
+      },
+      "ivory": {
+        "name": "Trắng ngà",
+        "meta": "Màu trắng ngà tạo không khí dịu dàng và trang nhã, lý tưởng để chụp ảnh đám cưới và chân dung đẹp."
+      },
+      "terracotta": {
+        "name": "Đất nung",
+        "meta": "Màu đất nung tạo không khí ấm áp và mộc mạc, lý tưởng để chụp ảnh các chủ đề cổ điển và nông thôn."
+      },
+      "mustard_yellow": {
+        "name": "Vàng mù tạt",
+        "meta": "Màu vàng mù tạt tạo không khí cổ điển và sống động, lý tưởng để chụp ảnh đường phố và các chủ đề vui nhộn."
+      },
+      "sage_green": {
+        "name": "Xanh xô thơm",
+        "meta": "Màu xanh xô thơm tạo không khí nhẹ nhàng và tươi mát, lý tưởng để chụp ảnh phong cảnh nông thôn và chân dung phong cách tươi mới."
+      },
+      "blush_pink": {
+        "name": "Hồng phấn",
+        "meta": "Màu hồng phấn tạo không khí dịu dàng và lãng mạn, lý tưởng để chụp ảnh các chủ đề thiếu nữ và ngọt ngào."
+      },
+      "dusty_rose": {
+        "name": "Hồng khói",
+        "meta": "Màu hồng khói tạo không khí cổ điển và dịu dàng, lý tưởng để chụp ảnh chân dung và các chủ đề hoài cổ."
+      },
+      "emerald_green": {
+        "name": "Xanh ngọc lục bảo",
+        "meta": "Màu xanh ngọc lục bảo tạo không khí quý phái và sang trọng, lý tưởng để chụp ảnh trang sức và các buổi chụp hình thời trang."
+      },
+      "teal": {
+        "name": "Xanh mòng két",
+        "meta": "Màu xanh mòng két/xanh vịt tạo không khí thời trang và độc đáo, lý tưởng để chụp ảnh chân dung sáng tạo và tác phẩm nghệ thuật."
+      },
+      "coral": {
+        "name": "Màu san hô",
+        "meta": "Màu san hô tạo không khí ấm áp và sôi động, lý tưởng để chụp ảnh các chủ đề kỳ nghỉ và nắng."
+      },
+      "khaki": {
+        "name": "Màu kaki",
+        "meta": "Màu kaki, một tông màu đất dịu nhẹ, tạo không khí tự nhiên và ấm áp, lý tưởng để chụp ảnh ngoài trời và các chủ đề du lịch."
+      },
+      "sand": {
+        "name": "Màu cát",
+        "meta": "Màu cát, một tông màu đất dịu nhẹ, tạo không khí yên bình và tĩnh lặng, lý tưởng để chụp ảnh các bãi biển và sa mạc."
+      },
+      "clay": {
+        "name": "Màu đất sét",
+        "meta": "Màu đất sét, một tông màu đất dịu nhẹ, tạo không khí mộc mạc và nguyên sơ, lý tưởng để chụp ảnh đồ gốm và phong cảnh thiên nhiên."
+      },
+      "pistachio_green": {
+        "name": "Xanh hồ trăn",
+        "meta": "Màu xanh hồ trăn tạo không khí tươi mát và dịu nhẹ, lý tưởng để chụp ảnh trang trí nhà cửa, món ăn và phong cách tối giản."
+      },
+      "periwinkle": {
+        "name": "Xanh dừa cạn",
+        "meta": "Màu xanh dừa cạn tạo không khí độc đáo và dịu nhẹ, lý tưởng để chụp ảnh các chủ đề mộng mơ và bí ẩn."
+      },
+      "ochre": {
+        "name": "Màu đất son",
+        "meta": "Màu đất son, một màu vàng đất, tạo không khí ấm áp và cổ điển, lý tưởng để chụp ảnh các phong cách hoài cổ và tác phẩm nghệ thuật."
+      },
+      "gold": {
+        "name": "Màu vàng",
+        "meta": "Màu vàng tạo không khí sang trọng và lấp lánh, lý tưởng để chụp ảnh các buổi tối và các dịp lễ."
+      },
+      "silver": {
+        "name": "Màu bạc",
+        "meta": "Màu bạc tạo không khí hiện đại và công nghệ, lý tưởng để chụp ảnh các chủ đề tương lai và thời trang."
+      },
+      "bronze": {
+        "name": "Màu đồng",
+        "meta": "Màu đồng tạo không khí cổ điển và bí ẩn, lý tưởng để chụp ảnh các chủ đề lịch sử và các tác phẩm có kết cấu kim loại."
+      },
+      "neon_pink": {
+        "name": "Hồng neon",
+        "meta": "Màu hồng neon tạo không khí tiên phong và thời thượng, lý tưởng để chụp ảnh các hộp đêm và đường phố."
+      },
+      "neon_green": {
+        "name": "Xanh neon",
+        "meta": "Màu xanh neon tạo không khí sống động và năng động, lý tưởng để chụp ảnh các chủ đề thể thao và lễ hội âm nhạc."
+      },
+      "pastel_pink": {
+        "name": "Hồng pastel",
+        "meta": "Màu hồng pastel tạo không khí ngọt ngào và mơ mộng, lý tưởng để chụp ảnh các chủ đề trẻ em và thiếu nữ."
+      },
+      "pastel_blue": {
+        "name": "Xanh pastel",
+        "meta": "Màu xanh pastel tạo không khí tươi mát và chữa lành, lý tưởng để chụp ảnh bầu trời và cảnh biển."
+      },
+      "earthy_brown": {
+        "name": "Nâu đất",
+        "meta": "Màu nâu đất tạo không khí mộc mạc và tự nhiên, lý tưởng để chụp ảnh rừng và các chủ đề ngoài trời."
+      },
+      "earthy_green": {
+        "name": "Xanh đất",
+        "meta": "Màu xanh đất tạo không khí tự nhiên và tràn đầy sức sống, lý tưởng để chụp ảnh cây cối và các chủ đề sinh thái."
+      },
+      "ruby_red": {
+        "name": "Đỏ ruby",
+        "meta": "Màu đỏ ruby tạo không khí đam mê và lộng lẫy, lý tưởng để chụp ảnh các chủ đề ngày lễ và lễ kỷ niệm."
+      },
+      "sapphire_blue": {
+        "name": "Xanh sapphire",
+        "meta": "Màu xanh sapphire tạo không khí quý phái và bí ẩn, lý tưởng để chụp ảnh các chủ đề bầu trời sao và trang sức."
+      },
+      "pearl_white": {
+        "name": "Trắng ngọc trai",
+        "meta": "Màu trắng mềm mại tạo không khí thuần khiết và tươi sáng, lý tưởng để chụp nhiều phong cách tươi mới và tối giản."
+      },
+      "peach_pink": {
+        "name": "Hồng đào",
+        "meta": "Một tông màu hồng ấm áp tạo ra một bầu không khí dịu dàng và ngọt ngào, lý tưởng để chụp chân dung và món ăn, đặc biệt cho tông màu da châu Á."
+      },
+      "almond_yellow": {
+        "name": "Vàng hạnh nhân",
+        "meta": "Một tông màu vàng ấm áp tạo ra một bầu không khí sống động và tươi sáng, lý tưởng để chụp các chủ đề ngoài trời và giải trí, đồng thời có thể làm nổi bật tông màu vàng của tông da châu Á."
+      },
+      "corn_color": {
+        "name": "Màu bắp",
+        "meta": "Một màu vàng dịu nhẹ tạo ra một bầu không khí ấm áp và thoải mái, lý tưởng để chụp các chủ đề hàng ngày và tại nhà, đồng thời mang lại cảm giác ánh sáng dịu nhẹ."
+      },
+      "mint_green": {
+        "name": "Xanh bạc hà",
+        "meta": "Một tông màu xanh lá cây tươi mát tạo ra một bầu không khí tươi mới và tự nhiên, lý tưởng để chụp ảnh cây cối, món ăn và chân dung phong cách tươi mới."
+      },
+      "ivory_white": {
+        "name": "Trắng ngà",
+        "meta": "Một màu trắng dịu nhẹ tạo ra một bầu không khí trang nhã và mềm mại, lý tưởng để chụp ảnh váy cưới và chân dung thời trang, đồng thời có thể làm sáng da."
+      },
+      "rose_gold": {
+        "name": "Vàng hồng",
+        "meta": "Một tông màu hồng ấm áp tạo ra một bầu không khí lãng mạn và tinh tế, lý tưởng để chụp ảnh trang sức và thời trang, đồng thời có thể tăng thêm vẻ rạng rỡ khỏe mạnh cho tông màu da châu Âu."
+      },
+      "champagne": {
+        "name": "Màu champagne",
+        "meta": "Một tông màu vàng ấm áp tạo ra một bầu không khí trang nhã và cao quý, lý tưởng để chụp ảnh đám cưới và lễ kỷ niệm, đồng thời có thể tăng thêm sự ấm áp cho tông màu da châu Âu."
+      },
+      "lavender": {
+        "name": "Màu oải hương",
+        "meta": "Một tông màu tím dịu nhẹ tạo ra một bầu không khí lãng mạn và mộng mơ, lý tưởng để chụp ảnh chân dung và phong cách nghệ thuật, đồng thời có thể tăng thêm nét dịu dàng độc đáo cho tông màu da châu Âu."
+      },
+      "warm_white": {
+        "name": "Trắng ấm",
+        "meta": "Một tông màu ấm áp và dịu nhẹ tạo ra một bầu không khí tự nhiên và ấm cúng, lý tưởng để chụp ảnh các cảnh sinh hoạt hàng ngày khác nhau và có thể mang lại vẻ rạng rỡ tự nhiên cho ảnh."
+      },
+      "soft_pink": {
+        "name": "Hồng mềm",
+        "meta": "Một màu hồng dịu nhẹ tạo ra một bầu không khí ấm cúng và lãng mạn, lý tưởng để chụp ảnh chân dung và ảnh cặp đôi, đồng thời có thể tăng thêm không khí ấm cúng và lãng mạn cho ảnh."
+      },
+      "light_yellow": {
+        "name": "Vàng nhạt",
+        "meta": "Một tông màu vàng nhạt tạo ra một bầu không khí ấm áp và dịu dàng, lý tưởng để chụp ảnh cảnh hoàng hôn và bình minh, đồng thời có thể tăng thêm cảm giác ánh sáng ấm áp cho ảnh."
+      },
+      "sky_blue": {
+        "name": "Xanh da trời",
+        "meta": "Một tông màu xanh da trời lạnh tạo ra một bầu không khí tươi mát và tĩnh lặng, lý tưởng để chụp ảnh bầu trời và đại dương, đồng thời có thể cân bằng các màu ấm khác."
+      },
+      "mint": {
+        "name": "Màu bạc hà",
+        "meta": "Một màu xanh lá cây dịu nhẹ tạo ra một bầu không khí tự nhiên và tươi mát, lý tưởng để chụp ảnh cây cối và các chủ đề tươi mát, đồng thời có thể mang lại cảm giác tự nhiên và sảng khoái."
+      }
+    }
+  },
+
   "Header": {
     "title": "Đèn bổ sáng Thầy Mèo",
     "tips": "Điều chỉnh độ sáng yêu cầu bạn điều chỉnh độ sáng màn hình của thiết bị của mình"

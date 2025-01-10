@@ -6,6 +6,194 @@
       "keywords": ["fillicht", "kleurcorrectie", "professionele fotografie"]
     }
   },
+  "HomePage": {
+    "Color": {
+      "accessible_beige": {
+        "name": "Toegankelijk Beige",
+        "meta": "Een zachte beige die een warme en comfortabele dagelijkse sfeer creëert, ideaal voor het fotograferen van het dagelijks leven thuis en intieme portretten."
+      },
+      "navy_blue": {
+        "name": "Marineblauw",
+        "meta": "Diep marineblauw, dat een kalme en diepzinnige sfeer biedt, ideaal voor het fotograferen van nachtscènes en zakelijke portretten."
+      },
+      "charcoal_gray": {
+        "name": "Antracietgrijs",
+        "meta": "Antracietgrijs, dat een moderne en koele sfeer creëert, ideaal voor het fotograferen van industriële stijlen en minimalistische stijlen."
+      },
+      "olive_green": {
+        "name": "Olijfgroen",
+        "meta": "Olijfgroen, dat een natuurlijke en rustige sfeer creëert, ideaal voor het fotograferen van buiten-, planten- en retrothema's."
+      },
+      "taupe": {
+        "name": "Taupe",
+        "meta": "Taupe, dat een elegante en vintage sfeer creëert, ideaal voor het fotograferen van modeportretten en stillevens."
+      },
+      "beige": {
+        "name": "Beige",
+        "meta": "Beige, dat een warme en eenvoudige sfeer creëert, ideaal voor het fotograferen van alledaagse scènes, eten en het leven."
+      },
+      "ivory": {
+        "name": "Ivoor",
+        "meta": "Ivoorwit, dat een zachte en elegante sfeer creëert, ideaal voor het fotograferen van bruiloften en prachtige portretten."
+      },
+      "terracotta": {
+        "name": "Terracotta",
+        "meta": "Terracotta, dat een warme en rustieke sfeer creëert, ideaal voor het fotograferen van retro- en landelijke thema's."
+      },
+      "mustard_yellow": {
+        "name": "Mosterdgeel",
+        "meta": "Mosterdgeel, dat een vintage en levendige sfeer creëert, ideaal voor het fotograferen van straat- en leuke thema's."
+      },
+      "sage_green": {
+        "name": "Saliegroen",
+        "meta": "Saliegroen, dat een zachte en verfrissende sfeer creëert, ideaal voor het fotograferen van landelijke landschappen en portretten met een verfrissende stijl."
+      },
+      "blush_pink": {
+        "name": "Blushroze",
+        "meta": "Blushroze, dat een zachte en romantische sfeer creëert, ideaal voor het fotograferen van meisjes- en zoete thema's."
+      },
+      "dusty_rose": {
+        "name": "Oudroze",
+        "meta": "Oudroze, dat een vintage en zachte sfeer creëert, ideaal voor het fotograferen van portretten en nostalgische thema's."
+      },
+      "emerald_green": {
+        "name": "Smaragdgroen",
+        "meta": "Smaragdgroen, dat een nobele en luxueuze sfeer creëert, ideaal voor het fotograferen van sieraden en mode shoots."
+      },
+      "teal": {
+        "name": "Teal",
+        "meta": "Teal/eendgroen, dat een modieuze en unieke sfeer creëert, ideaal voor het fotograferen van creatieve portretten en kunstwerken."
+      },
+      "coral": {
+        "name": "Koraal",
+        "meta": "Koraal, dat een warme en levendige sfeer creëert, ideaal voor het fotograferen van vakantie- en zonnethema's."
+      },
+      "khaki": {
+        "name": "Kaki",
+        "meta": "Kaki, een zachte aardetint, dat een natuurlijke en warme sfeer creëert, ideaal voor het fotograferen van buiten- en reisthema's."
+      },
+      "sand": {
+        "name": "Zand",
+        "meta": "Zand, een zachte aardetint, dat een rustige en vredige sfeer creëert, ideaal voor het fotograferen van stranden en woestijnen."
+      },
+      "clay": {
+        "name": "Klei",
+        "meta": "Klei, een zachte aardetint, dat een rustieke en originele sfeer creëert, ideaal voor het fotograferen van aardewerk en natuurlandschappen."
+      },
+      "pistachio_green": {
+        "name": "Pistachegroen",
+        "meta": "Pistachegroen, dat een frisse en zachte sfeer creëert, ideaal voor het fotograferen van woondecoratie, eten en een rustige stijl."
+      },
+      "periwinkle": {
+        "name": "Maagdenpalm",
+        "meta": "Maagdenpalm, dat een unieke en zachte sfeer creëert, ideaal voor het fotograferen van dromerige en mystieke thema's."
+      },
+      "ochre": {
+        "name": "Oker",
+        "meta": "Oker, een aardachtig geel, dat een warme en vintage sfeer creëert, ideaal voor het fotograferen van nostalgische stijlen en kunstwerken."
+      },
+      "gold": {
+        "name": "Goud",
+        "meta": "Goud, dat een luxe en glanzende sfeer creëert, ideaal voor het fotograferen van diners en feestelijke scènes."
+      },
+      "silver": {
+        "name": "Zilver",
+        "meta": "Zilver, dat een moderne en technologische sfeer creëert, ideaal voor het fotograferen van futuristische en modieuze thema's."
+      },
+      "bronze": {
+        "name": "Brons",
+        "meta": "Brons, dat een vintage en mysterieuze sfeer creëert, ideaal voor het fotograferen van historische thema's en metaaltexturen."
+      },
+      "neon_pink": {
+        "name": "Neonroze",
+        "meta": "Neonroze, dat een avant-gardistische en trendy sfeer creëert, ideaal voor het fotograferen van nachtclubs en straatthema's."
+      },
+      "neon_green": {
+        "name": "Neongroen",
+        "meta": "Neongroen, dat een levendige en dynamische sfeer creëert, ideaal voor het fotograferen van sport- en muziekfestivalthema's."
+      },
+      "pastel_pink": {
+        "name": "Pastelroze",
+        "meta": "Pastelroze, dat een zoete en dromerige sfeer creëert, ideaal voor het fotograferen van kinder- en meisjesthema's."
+      },
+      "pastel_blue": {
+        "name": "Pastelblauw",
+        "meta": "Pastelblauw, dat een frisse en helende sfeer creëert, ideaal voor het fotograferen van luchten en strandscènes."
+      },
+      "earthy_brown": {
+        "name": "Aardebruin",
+        "meta": "Aardebruin, dat een eenvoudige en natuurlijke sfeer creëert, ideaal voor het fotograferen van bossen en outdoorthema's."
+      },
+      "earthy_green": {
+        "name": "Aardegroen",
+        "meta": "Aardegroen, dat een natuurlijke en levendige sfeer creëert, ideaal voor het fotograferen van planten en ecologische thema's."
+      },
+      "ruby_red": {
+        "name": "Robijnrood",
+        "meta": "Robijnrood, dat een gepassioneerde en prachtige sfeer creëert, ideaal voor het fotograferen van feestdagen en feestelijke thema's."
+      },
+      "sapphire_blue": {
+        "name": "Saffierblauw",
+        "meta": "Saffierblauw, dat een nobele en mysterieuze sfeer creëert, ideaal voor het fotograferen van sterrenhemel- en sieradenthema's."
+      },
+      "pearl_white": {
+        "name": "Parelmoerwit",
+        "meta": "Een zachte witte tint die een zuivere en heldere sfeer creëert, ideaal voor het fotograferen van een verscheidenheid aan frisse en minimalistische stijlen."
+      },
+      "peach_pink": {
+        "name": "Perzikroze",
+        "meta": "Een warme roze tint die een zachte en zoete sfeer creëert, ideaal voor het fotograferen van portretten en voedsel, vooral voor Aziatische huidtinten."
+      },
+      "almond_yellow": {
+        "name": "Amandelgeel",
+        "meta": "Een warme gele tint die een levendige en zonnige sfeer creëert, ideaal voor het fotograferen van buiten- en vrijetijdsthema's, en die de gouden tint van Aziatische huidtinten kan versterken."
+      },
+      "corn_color": {
+        "name": "Maisgeel",
+        "meta": "Een zachte gele tint die een warme en comfortabele sfeer creëert, ideaal voor het fotograferen van alledaagse en thuisthema's, en die een gevoel van zacht licht geeft."
+      },
+      "mint_green": {
+        "name": "Muntgroen",
+        "meta": "Een frisse groene tint die een frisse en natuurlijke sfeer creëert, ideaal voor het fotograferen van planten, voedsel en portretten in een frisse stijl."
+      },
+      "ivory_white": {
+        "name": "Ivoorwit",
+        "meta": "Een zachte witte tint die een elegante en zachte sfeer creëert, ideaal voor het fotograferen van trouwjurken en modieuze portretten, en die de huid kan oplichten."
+      },
+      "rose_gold": {
+        "name": "Roségoud",
+        "meta": "Een warme roze tint die een romantische en verfijnde sfeer creëert, ideaal voor het fotograferen van sieraden en mode, en die een gezonde glans kan toevoegen aan Europese huidtinten."
+      },
+      "champagne": {
+        "name": "Champagne",
+        "meta": "Een warme gouden tint die een elegante en nobele sfeer creëert, ideaal voor het fotograferen van bruiloften en feesten, en die de warmte van Europese huidtinten kan versterken."
+      },
+      "lavender": {
+        "name": "Lavendel",
+        "meta": "Een zachte paarse tint die een romantische en dromerige sfeer creëert, ideaal voor het fotograferen van portretten en artistieke stijlen, en die een unieke zachtheid kan toevoegen aan Europese huidtinten."
+      },
+      "warm_white": {
+        "name": "Warmwit",
+        "meta": "Een zachte, warme tint die een natuurlijke en gezellige sfeer creëert, ideaal voor het fotograferen van verschillende alledaagse scènes, en die een natuurlijke glans aan de foto's kan geven."
+      },
+      "soft_pink": {
+        "name": "Zachtroze",
+        "meta": "Een zacht roze die een gezellige en romantische sfeer creëert, ideaal voor het fotograferen van portretten en foto's van koppels, en die een gezellige en romantische sfeer aan de foto's kan toevoegen."
+      },
+      "light_yellow": {
+        "name": "Lichtgeel",
+        "meta": "Een lichtgele tint die een warme en zachte sfeer creëert, ideaal voor het fotograferen van zonsondergang- en zonsopgangscènes, en die een gevoel van warm licht aan de foto's kan toevoegen."
+      },
+      "sky_blue": {
+        "name": "Hemelsblauw",
+        "meta": "Een koele hemelsblauwe tint die een frisse en rustige sfeer creëert, ideaal voor het fotograferen van luchten en oceanen, en die andere warme kleuren in evenwicht kan brengen."
+      },
+      "mint": {
+        "name": "Munt",
+        "meta": "Een zachte groene tint die een natuurlijke en frisse sfeer creëert, ideaal voor het fotograferen van planten en verfrissende thema's, en die een natuurlijk en verfrissend gevoel kan geven."
+      }
+    }
+  },
   "Header": {
     "title": "Meesterkat Fillicht",
     "tips": "Helderheidsaanpassing vereist het aanpassen van de schermhelderheid van uw eigen apparaat"
