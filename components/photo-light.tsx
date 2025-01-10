@@ -11,7 +11,7 @@ export default function Component() {
   const t = useTranslations("HomePage.Color");
   const { theme, setTheme } = useTheme();
   const [backgroundColor, setBackgroundColor] = useState("#D1CABB");
-  const [colormetaInfo, setColormetaInfo] = useState("");
+  const [colormetaInfo, setColormetaInfo] = useState("accessible_beige");
   const scrollContainerRef = useRef<HTMLDivElement>(null);
   const [showLeftArrow, setShowLeftArrow] = useState(false);
   const [showRightArrow, setShowRightArrow] = useState(true);
@@ -304,10 +304,6 @@ export default function Component() {
       hex: "#FAFAD2",
     },
     {
-      id: "sky_blue",
-      hex: "#E6F3FF",
-    },
-    {
       id: "mint",
       hex: "#F0FFF0",
     },
@@ -335,7 +331,16 @@ export default function Component() {
 
       {showColorPicker && (
         <>
-          <p className="text-gray-600">{colormetaInfo}</p>
+          {colors.map((color) => (
+            <h2
+              key={color.id}
+              className={`text-gray-600 ${
+                colormetaInfo === color.id ? "block" : "hidden"
+              }`}
+            >
+              {t(`${color.id}.meta`)}
+            </h2>
+          ))}
           <div className="fixed flex flex-col items-center z-50 bottom-10 left-4 right-4 gap-2">
             {showLeftArrow && (
               <button
@@ -356,12 +361,12 @@ export default function Component() {
                   key={color.hex}
                   onClick={() => {
                     setBackgroundColor(color.hex);
-                    setColormetaInfo(t(`${color.id}.meta`));
+                    setColormetaInfo(color.id);
                   }}
                   className="px-4 py-2 rounded"
                   style={{ backgroundColor: color.hex, color: "#000" }}
                 >
-                  <h2 className="flex mb-0 text-sm">{t(`${color.id}.name`)}</h2>
+                  <h3 className="flex mb-0 text-sm">{t(`${color.id}.name`)}</h3>
                 </Button>
               ))}
             </div>
